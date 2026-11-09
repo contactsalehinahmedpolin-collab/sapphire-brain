@@ -1,0 +1,1295 @@
+{
+ "updated": "2026-11-09T15:59:16Z",
+ "schedule": {
+  "2026-11-09": [
+   {
+    "slug": "slayyy",
+    "email": "dv@slayyyhair.com",
+    "tz": "America/Los_Angeles",
+    "day": 7
+   },
+   {
+    "slug": "dosso",
+    "email": "kadidja@dossobeauty.com",
+    "tz": "America/New_York",
+    "day": 7
+   },
+   {
+    "slug": "double-wood",
+    "email": "hsantos@doublewoodsupplements.com",
+    "tz": "America/New_York",
+    "day": 7
+   },
+   {
+    "slug": "true-sea-moss",
+    "email": "ivan@trueseamoss.com",
+    "tz": "America/New_York",
+    "day": 7
+   },
+   {
+    "slug": "prime-male",
+    "email": "robert.parker@roarambition.com",
+    "tz": "America/New_York",
+    "day": 7
+   },
+   {
+    "slug": "amy-myers",
+    "email": "amy@amymyersmd.com",
+    "tz": "America/Chicago",
+    "day": 7
+   },
+   {
+    "slug": "mela",
+    "email": "ashley@melavitamins.com",
+    "tz": "America/New_York",
+    "day": 7
+   },
+   {
+    "slug": "curlmix",
+    "email": "kim@curlmix.com",
+    "tz": "America/Chicago",
+    "day": 3
+   },
+   {
+    "slug": "healthy-back",
+    "email": "jesse@livepainfree.com",
+    "tz": "America/New_York",
+    "day": 3
+   },
+   {
+    "slug": "ancestral",
+    "email": "chris@ancestralsupplements.com",
+    "tz": "America/New_York",
+    "day": 3
+   },
+   {
+    "slug": "pink-stork",
+    "email": "amy@pinkstork.com",
+    "tz": "America/New_York",
+    "day": 3
+   },
+   {
+    "slug": "organifi",
+    "email": "dc@organifi.com",
+    "tz": "America/Los_Angeles",
+    "day": 3
+   },
+   {
+    "slug": "llama-naturals",
+    "email": "bbaum@llamanaturals.com",
+    "tz": "America/Chicago",
+    "day": 3
+   },
+   {
+    "slug": "hum",
+    "email": "walter@humnutrition.com",
+    "tz": "America/Los_Angeles",
+    "day": 3
+   },
+   {
+    "slug": "happy-mammoth",
+    "email": "matthew@happymammoth.co",
+    "tz": "America/New_York",
+    "day": 3
+   },
+   {
+    "slug": "primal-harvest",
+    "email": "hamish@prime6brands.com",
+    "tz": "America/New_York",
+    "day": 3
+   },
+   {
+    "slug": "snap",
+    "email": "max@snapsupplements.com",
+    "tz": "America/Los_Angeles",
+    "day": 3
+   },
+   {
+    "slug": "physicians-choice",
+    "email": "loganc@physicianschoice.com",
+    "tz": "America/Denver",
+    "day": 3
+   },
+   {
+    "slug": "maryruths",
+    "email": "maryruth@maryruthorganics.com",
+    "tz": "America/Los_Angeles",
+    "day": 3
+   },
+   {
+    "slug": "arrae",
+    "email": "siff@arrae.com",
+    "tz": "America/Los_Angeles",
+    "day": 3
+   },
+   {
+    "slug": "pd-labs",
+    "email": "asolano@pdlabsrx.com",
+    "tz": "America/Chicago",
+    "day": 3
+   },
+   {
+    "slug": "elixicure",
+    "email": "yaniv@elixicure.com",
+    "tz": "America/Los_Angeles",
+    "day": 3
+   },
+   {
+    "slug": "happy-v",
+    "email": "daniella@happyv.com",
+    "tz": "America/New_York",
+    "day": 3
+   },
+   {
+    "slug": "rugiet",
+    "email": "mike.apostal@rugiet.com",
+    "tz": "America/New_York",
+    "day": 3
+   },
+   {
+    "slug": "tommie-copper",
+    "email": "sol@tommiecopper.com",
+    "tz": "America/New_York",
+    "day": 3
+   },
+   {
+    "slug": "sliquid",
+    "email": "cynthia@sliquid.com",
+    "tz": "America/Chicago",
+    "day": 3
+   },
+   {
+    "slug": "prevagen",
+    "email": "dmiller@quincybioscience.com",
+    "tz": "America/Chicago",
+    "day": 3
+   },
+   {
+    "slug": "copper-fit",
+    "email": "jaedon@ideavillage.com",
+    "tz": "America/New_York",
+    "day": 3
+   },
+   {
+    "slug": "womaness",
+    "email": "sally@womaness.com",
+    "tz": "America/Chicago",
+    "day": 3
+   },
+   {
+    "slug": "cc-wellness",
+    "email": "mwalsh@ccwellness.com",
+    "tz": "America/Los_Angeles",
+    "day": 3
+   }
+  ],
+  "2026-11-10": [
+   {
+    "slug": "promescent",
+    "email": "chris.harris@promescent.com",
+    "tz": "America/Chicago",
+    "day": 3
+   },
+   {
+    "slug": "joylux",
+    "email": "heather@joylux.com",
+    "tz": "America/Los_Angeles",
+    "day": 3
+   },
+   {
+    "slug": "dame",
+    "email": "alex@dameproducts.com",
+    "tz": "America/New_York",
+    "day": 3
+   },
+   {
+    "slug": "native-pet",
+    "email": "dan@nativepet.com",
+    "tz": "America/Chicago",
+    "day": 3
+   },
+   {
+    "slug": "skouts-honor",
+    "email": "macon@skoutshonor.com",
+    "tz": "America/Los_Angeles",
+    "day": 3
+   },
+   {
+    "slug": "bully-max",
+    "email": "matthew@bullymax.com",
+    "tz": "America/New_York",
+    "day": 3
+   },
+   {
+    "slug": "wuffes",
+    "email": "jonny@wuffes.com",
+    "tz": "Europe/London",
+    "day": 3
+   },
+   {
+    "slug": "pet-parents",
+    "email": "blake@petparentsbrand.com",
+    "tz": "America/Chicago",
+    "day": 3
+   },
+   {
+    "slug": "good-clean-love",
+    "email": "wendy@goodcleanlove.com",
+    "tz": "America/Los_Angeles",
+    "day": 3
+   },
+   {
+    "slug": "frownies",
+    "email": "helen@frownies.com",
+    "tz": "America/Chicago",
+    "day": 3
+   },
+   {
+    "slug": "copper-compression",
+    "email": "bobby@coppercompression.com",
+    "tz": "America/New_York",
+    "day": 3
+   },
+   {
+    "slug": "medicine-mama",
+    "email": "brittany.blass@medicinemama.com",
+    "tz": "America/Los_Angeles",
+    "day": 3
+   },
+   {
+    "slug": "hachi-wilson",
+    "email": "manish@hachiwilson.com",
+    "tz": "America/Toronto",
+    "day": 3
+   },
+   {
+    "slug": "forestleaf",
+    "email": "moishy@forestleaf.com",
+    "tz": "America/New_York",
+    "day": 3
+   },
+   {
+    "slug": "superbonsai",
+    "email": "george@superbonsai.com",
+    "tz": "America/Los_Angeles",
+    "day": 3
+   },
+   {
+    "slug": "bug-bite-thing",
+    "email": "ellen@bugbitething.com",
+    "tz": "America/New_York",
+    "day": 3
+   },
+   {
+    "slug": "sum-of-all",
+    "email": "stacey@sumofall.com",
+    "tz": "America/New_York",
+    "day": 3
+   },
+   {
+    "slug": "bloomi",
+    "email": "rebecca@thebloomi.com",
+    "tz": "America/Los_Angeles",
+    "day": 3
+   },
+   {
+    "slug": "unbound",
+    "email": "polly@unboundbabes.com",
+    "tz": "America/New_York",
+    "day": 3
+   },
+   {
+    "slug": "pelvic-people",
+    "email": "emily@thepelvicpeople.com",
+    "tz": "America/New_York",
+    "day": 3
+   },
+   {
+    "slug": "aloe-up",
+    "email": "tom@aloeup.com",
+    "tz": "America/Chicago",
+    "day": 3
+   },
+   {
+    "slug": "hawkgrips",
+    "email": "oz@hawkgrips.com",
+    "tz": "America/New_York",
+    "day": 3
+   },
+   {
+    "slug": "shameless-pets",
+    "email": "james@shamelesspets.com",
+    "tz": "America/New_York",
+    "day": 3
+   },
+   {
+    "slug": "shepherd-boy-farms",
+    "email": "ashton@shepherdboyfarms.com",
+    "tz": "America/Indiana/Indianapolis",
+    "day": 3
+   },
+   {
+    "slug": "element-apothec",
+    "email": "david@elementapothec.com",
+    "tz": "America/Los_Angeles",
+    "day": 3
+   },
+   {
+    "slug": "kineon",
+    "email": "forrest@kineon.io",
+    "tz": "America/New_York",
+    "day": 3
+   },
+   {
+    "slug": "under-the-weather",
+    "email": "phil@undertheweatherpet.com",
+    "tz": "America/New_York",
+    "day": 3
+   },
+   {
+    "slug": "naboso",
+    "email": "dremily@naboso.com",
+    "tz": "America/Phoenix",
+    "day": 3
+   },
+   {
+    "slug": "phoenix-hipwear",
+    "email": "natasha@phoenixhips.com",
+    "tz": "America/Chicago",
+    "day": 3
+   }
+  ],
+  "2026-11-11": [
+   {
+    "slug": "slayyy",
+    "email": "dv@slayyyhair.com",
+    "tz": "America/Los_Angeles",
+    "day": 10
+   },
+   {
+    "slug": "dosso",
+    "email": "kadidja@dossobeauty.com",
+    "tz": "America/New_York",
+    "day": 10
+   },
+   {
+    "slug": "double-wood",
+    "email": "hsantos@doublewoodsupplements.com",
+    "tz": "America/New_York",
+    "day": 10
+   },
+   {
+    "slug": "true-sea-moss",
+    "email": "ivan@trueseamoss.com",
+    "tz": "America/New_York",
+    "day": 10
+   },
+   {
+    "slug": "prime-male",
+    "email": "robert.parker@roarambition.com",
+    "tz": "America/New_York",
+    "day": 10
+   },
+   {
+    "slug": "amy-myers",
+    "email": "amy@amymyersmd.com",
+    "tz": "America/Chicago",
+    "day": 10
+   },
+   {
+    "slug": "mela",
+    "email": "ashley@melavitamins.com",
+    "tz": "America/New_York",
+    "day": 10
+   },
+   {
+    "slug": "curlmix",
+    "email": "kim@curlmix.com",
+    "tz": "America/Chicago",
+    "day": 7
+   },
+   {
+    "slug": "healthy-back",
+    "email": "jesse@livepainfree.com",
+    "tz": "America/New_York",
+    "day": 7
+   },
+   {
+    "slug": "ancestral",
+    "email": "chris@ancestralsupplements.com",
+    "tz": "America/New_York",
+    "day": 7
+   },
+   {
+    "slug": "pink-stork",
+    "email": "amy@pinkstork.com",
+    "tz": "America/New_York",
+    "day": 7
+   },
+   {
+    "slug": "organifi",
+    "email": "dc@organifi.com",
+    "tz": "America/Los_Angeles",
+    "day": 7
+   },
+   {
+    "slug": "llama-naturals",
+    "email": "bbaum@llamanaturals.com",
+    "tz": "America/Chicago",
+    "day": 7
+   },
+   {
+    "slug": "hum",
+    "email": "walter@humnutrition.com",
+    "tz": "America/Los_Angeles",
+    "day": 7
+   },
+   {
+    "slug": "happy-mammoth",
+    "email": "matthew@happymammoth.co",
+    "tz": "America/New_York",
+    "day": 7
+   },
+   {
+    "slug": "primal-harvest",
+    "email": "hamish@prime6brands.com",
+    "tz": "America/New_York",
+    "day": 7
+   },
+   {
+    "slug": "snap",
+    "email": "max@snapsupplements.com",
+    "tz": "America/Los_Angeles",
+    "day": 7
+   },
+   {
+    "slug": "physicians-choice",
+    "email": "loganc@physicianschoice.com",
+    "tz": "America/Denver",
+    "day": 7
+   },
+   {
+    "slug": "maryruths",
+    "email": "maryruth@maryruthorganics.com",
+    "tz": "America/Los_Angeles",
+    "day": 7
+   },
+   {
+    "slug": "arrae",
+    "email": "siff@arrae.com",
+    "tz": "America/Los_Angeles",
+    "day": 7
+   },
+   {
+    "slug": "pd-labs",
+    "email": "asolano@pdlabsrx.com",
+    "tz": "America/Chicago",
+    "day": 7
+   },
+   {
+    "slug": "elixicure",
+    "email": "yaniv@elixicure.com",
+    "tz": "America/Los_Angeles",
+    "day": 7
+   },
+   {
+    "slug": "happy-v",
+    "email": "daniella@happyv.com",
+    "tz": "America/New_York",
+    "day": 7
+   },
+   {
+    "slug": "rugiet",
+    "email": "mike.apostal@rugiet.com",
+    "tz": "America/New_York",
+    "day": 7
+   },
+   {
+    "slug": "tommie-copper",
+    "email": "sol@tommiecopper.com",
+    "tz": "America/New_York",
+    "day": 7
+   },
+   {
+    "slug": "sliquid",
+    "email": "cynthia@sliquid.com",
+    "tz": "America/Chicago",
+    "day": 7
+   },
+   {
+    "slug": "prevagen",
+    "email": "dmiller@quincybioscience.com",
+    "tz": "America/Chicago",
+    "day": 7
+   },
+   {
+    "slug": "copper-fit",
+    "email": "jaedon@ideavillage.com",
+    "tz": "America/New_York",
+    "day": 7
+   },
+   {
+    "slug": "womaness",
+    "email": "sally@womaness.com",
+    "tz": "America/Chicago",
+    "day": 7
+   },
+   {
+    "slug": "cc-wellness",
+    "email": "mwalsh@ccwellness.com",
+    "tz": "America/Los_Angeles",
+    "day": 7
+   }
+  ],
+  "2026-11-12": [
+   {
+    "slug": "promescent",
+    "email": "chris.harris@promescent.com",
+    "tz": "America/Chicago",
+    "day": 7
+   },
+   {
+    "slug": "joylux",
+    "email": "heather@joylux.com",
+    "tz": "America/Los_Angeles",
+    "day": 7
+   },
+   {
+    "slug": "dame",
+    "email": "alex@dameproducts.com",
+    "tz": "America/New_York",
+    "day": 7
+   },
+   {
+    "slug": "native-pet",
+    "email": "dan@nativepet.com",
+    "tz": "America/Chicago",
+    "day": 7
+   },
+   {
+    "slug": "skouts-honor",
+    "email": "macon@skoutshonor.com",
+    "tz": "America/Los_Angeles",
+    "day": 7
+   },
+   {
+    "slug": "bully-max",
+    "email": "matthew@bullymax.com",
+    "tz": "America/New_York",
+    "day": 7
+   },
+   {
+    "slug": "wuffes",
+    "email": "jonny@wuffes.com",
+    "tz": "Europe/London",
+    "day": 7
+   },
+   {
+    "slug": "pet-parents",
+    "email": "blake@petparentsbrand.com",
+    "tz": "America/Chicago",
+    "day": 7
+   },
+   {
+    "slug": "good-clean-love",
+    "email": "wendy@goodcleanlove.com",
+    "tz": "America/Los_Angeles",
+    "day": 7
+   },
+   {
+    "slug": "frownies",
+    "email": "helen@frownies.com",
+    "tz": "America/Chicago",
+    "day": 7
+   },
+   {
+    "slug": "copper-compression",
+    "email": "bobby@coppercompression.com",
+    "tz": "America/New_York",
+    "day": 7
+   },
+   {
+    "slug": "medicine-mama",
+    "email": "brittany.blass@medicinemama.com",
+    "tz": "America/Los_Angeles",
+    "day": 7
+   },
+   {
+    "slug": "hachi-wilson",
+    "email": "manish@hachiwilson.com",
+    "tz": "America/Toronto",
+    "day": 7
+   },
+   {
+    "slug": "forestleaf",
+    "email": "moishy@forestleaf.com",
+    "tz": "America/New_York",
+    "day": 7
+   },
+   {
+    "slug": "superbonsai",
+    "email": "george@superbonsai.com",
+    "tz": "America/Los_Angeles",
+    "day": 7
+   },
+   {
+    "slug": "bug-bite-thing",
+    "email": "ellen@bugbitething.com",
+    "tz": "America/New_York",
+    "day": 7
+   },
+   {
+    "slug": "sum-of-all",
+    "email": "stacey@sumofall.com",
+    "tz": "America/New_York",
+    "day": 7
+   },
+   {
+    "slug": "bloomi",
+    "email": "rebecca@thebloomi.com",
+    "tz": "America/Los_Angeles",
+    "day": 7
+   },
+   {
+    "slug": "unbound",
+    "email": "polly@unboundbabes.com",
+    "tz": "America/New_York",
+    "day": 7
+   },
+   {
+    "slug": "pelvic-people",
+    "email": "emily@thepelvicpeople.com",
+    "tz": "America/New_York",
+    "day": 7
+   },
+   {
+    "slug": "aloe-up",
+    "email": "tom@aloeup.com",
+    "tz": "America/Chicago",
+    "day": 7
+   },
+   {
+    "slug": "hawkgrips",
+    "email": "oz@hawkgrips.com",
+    "tz": "America/New_York",
+    "day": 7
+   },
+   {
+    "slug": "shameless-pets",
+    "email": "james@shamelesspets.com",
+    "tz": "America/New_York",
+    "day": 7
+   },
+   {
+    "slug": "shepherd-boy-farms",
+    "email": "ashton@shepherdboyfarms.com",
+    "tz": "America/Indiana/Indianapolis",
+    "day": 7
+   },
+   {
+    "slug": "element-apothec",
+    "email": "david@elementapothec.com",
+    "tz": "America/Los_Angeles",
+    "day": 7
+   },
+   {
+    "slug": "kineon",
+    "email": "forrest@kineon.io",
+    "tz": "America/New_York",
+    "day": 7
+   },
+   {
+    "slug": "under-the-weather",
+    "email": "phil@undertheweatherpet.com",
+    "tz": "America/New_York",
+    "day": 7
+   },
+   {
+    "slug": "naboso",
+    "email": "dremily@naboso.com",
+    "tz": "America/Phoenix",
+    "day": 7
+   },
+   {
+    "slug": "phoenix-hipwear",
+    "email": "natasha@phoenixhips.com",
+    "tz": "America/Chicago",
+    "day": 7
+   }
+  ],
+  "2026-11-13": [
+   {
+    "slug": "curlmix",
+    "email": "kim@curlmix.com",
+    "tz": "America/Chicago",
+    "day": 10
+   },
+   {
+    "slug": "healthy-back",
+    "email": "jesse@livepainfree.com",
+    "tz": "America/New_York",
+    "day": 10
+   },
+   {
+    "slug": "ancestral",
+    "email": "chris@ancestralsupplements.com",
+    "tz": "America/New_York",
+    "day": 10
+   },
+   {
+    "slug": "pink-stork",
+    "email": "amy@pinkstork.com",
+    "tz": "America/New_York",
+    "day": 10
+   },
+   {
+    "slug": "organifi",
+    "email": "dc@organifi.com",
+    "tz": "America/Los_Angeles",
+    "day": 10
+   },
+   {
+    "slug": "llama-naturals",
+    "email": "bbaum@llamanaturals.com",
+    "tz": "America/Chicago",
+    "day": 10
+   },
+   {
+    "slug": "hum",
+    "email": "walter@humnutrition.com",
+    "tz": "America/Los_Angeles",
+    "day": 10
+   },
+   {
+    "slug": "happy-mammoth",
+    "email": "matthew@happymammoth.co",
+    "tz": "America/New_York",
+    "day": 10
+   },
+   {
+    "slug": "primal-harvest",
+    "email": "hamish@prime6brands.com",
+    "tz": "America/New_York",
+    "day": 10
+   },
+   {
+    "slug": "snap",
+    "email": "max@snapsupplements.com",
+    "tz": "America/Los_Angeles",
+    "day": 10
+   },
+   {
+    "slug": "physicians-choice",
+    "email": "loganc@physicianschoice.com",
+    "tz": "America/Denver",
+    "day": 10
+   },
+   {
+    "slug": "maryruths",
+    "email": "maryruth@maryruthorganics.com",
+    "tz": "America/Los_Angeles",
+    "day": 10
+   },
+   {
+    "slug": "arrae",
+    "email": "siff@arrae.com",
+    "tz": "America/Los_Angeles",
+    "day": 10
+   },
+   {
+    "slug": "pd-labs",
+    "email": "asolano@pdlabsrx.com",
+    "tz": "America/Chicago",
+    "day": 10
+   },
+   {
+    "slug": "elixicure",
+    "email": "yaniv@elixicure.com",
+    "tz": "America/Los_Angeles",
+    "day": 10
+   },
+   {
+    "slug": "happy-v",
+    "email": "daniella@happyv.com",
+    "tz": "America/New_York",
+    "day": 10
+   },
+   {
+    "slug": "rugiet",
+    "email": "mike.apostal@rugiet.com",
+    "tz": "America/New_York",
+    "day": 10
+   },
+   {
+    "slug": "tommie-copper",
+    "email": "sol@tommiecopper.com",
+    "tz": "America/New_York",
+    "day": 10
+   },
+   {
+    "slug": "sliquid",
+    "email": "cynthia@sliquid.com",
+    "tz": "America/Chicago",
+    "day": 10
+   },
+   {
+    "slug": "prevagen",
+    "email": "dmiller@quincybioscience.com",
+    "tz": "America/Chicago",
+    "day": 10
+   },
+   {
+    "slug": "copper-fit",
+    "email": "jaedon@ideavillage.com",
+    "tz": "America/New_York",
+    "day": 10
+   },
+   {
+    "slug": "womaness",
+    "email": "sally@womaness.com",
+    "tz": "America/Chicago",
+    "day": 10
+   },
+   {
+    "slug": "cc-wellness",
+    "email": "mwalsh@ccwellness.com",
+    "tz": "America/Los_Angeles",
+    "day": 10
+   },
+   {
+    "slug": "hostage-tape",
+    "email": "alex@hostagetape.com",
+    "tz": "America/Chicago",
+    "day": 3
+   },
+   {
+    "slug": "saalt",
+    "email": "jon.hoeger@saalt.com",
+    "tz": "America/Boise",
+    "day": 3
+   },
+   {
+    "slug": "ingrid-and-isabel",
+    "email": "ingrid@ingridandisabel.com",
+    "tz": "America/Los_Angeles",
+    "day": 3
+   },
+   {
+    "slug": "lord-jameson",
+    "email": "sarah@lordjameson.com",
+    "tz": "America/New_York",
+    "day": 3
+   },
+   {
+    "slug": "chippin",
+    "email": "haley@chippinpet.com",
+    "tz": "America/New_York",
+    "day": 3
+   },
+   {
+    "slug": "sposie",
+    "email": "ryan.wright@sposie.com",
+    "tz": "America/New_York",
+    "day": 3
+   },
+   {
+    "slug": "uberlube",
+    "email": "stephen@uberlube.com",
+    "tz": "America/Chicago",
+    "day": 3
+   }
+  ],
+  "2026-11-16": [
+   {
+    "slug": "promescent",
+    "email": "chris.harris@promescent.com",
+    "tz": "America/Chicago",
+    "day": 10
+   },
+   {
+    "slug": "joylux",
+    "email": "heather@joylux.com",
+    "tz": "America/Los_Angeles",
+    "day": 10
+   },
+   {
+    "slug": "dame",
+    "email": "alex@dameproducts.com",
+    "tz": "America/New_York",
+    "day": 10
+   },
+   {
+    "slug": "native-pet",
+    "email": "dan@nativepet.com",
+    "tz": "America/Chicago",
+    "day": 10
+   },
+   {
+    "slug": "skouts-honor",
+    "email": "macon@skoutshonor.com",
+    "tz": "America/Los_Angeles",
+    "day": 10
+   },
+   {
+    "slug": "bully-max",
+    "email": "matthew@bullymax.com",
+    "tz": "America/New_York",
+    "day": 10
+   },
+   {
+    "slug": "wuffes",
+    "email": "jonny@wuffes.com",
+    "tz": "Europe/London",
+    "day": 10
+   },
+   {
+    "slug": "pet-parents",
+    "email": "blake@petparentsbrand.com",
+    "tz": "America/Chicago",
+    "day": 10
+   },
+   {
+    "slug": "good-clean-love",
+    "email": "wendy@goodcleanlove.com",
+    "tz": "America/Los_Angeles",
+    "day": 10
+   },
+   {
+    "slug": "frownies",
+    "email": "helen@frownies.com",
+    "tz": "America/Chicago",
+    "day": 10
+   },
+   {
+    "slug": "copper-compression",
+    "email": "bobby@coppercompression.com",
+    "tz": "America/New_York",
+    "day": 10
+   },
+   {
+    "slug": "medicine-mama",
+    "email": "brittany.blass@medicinemama.com",
+    "tz": "America/Los_Angeles",
+    "day": 10
+   },
+   {
+    "slug": "hachi-wilson",
+    "email": "manish@hachiwilson.com",
+    "tz": "America/Toronto",
+    "day": 10
+   },
+   {
+    "slug": "forestleaf",
+    "email": "moishy@forestleaf.com",
+    "tz": "America/New_York",
+    "day": 10
+   },
+   {
+    "slug": "superbonsai",
+    "email": "george@superbonsai.com",
+    "tz": "America/Los_Angeles",
+    "day": 10
+   },
+   {
+    "slug": "bug-bite-thing",
+    "email": "ellen@bugbitething.com",
+    "tz": "America/New_York",
+    "day": 10
+   },
+   {
+    "slug": "sum-of-all",
+    "email": "stacey@sumofall.com",
+    "tz": "America/New_York",
+    "day": 10
+   },
+   {
+    "slug": "bloomi",
+    "email": "rebecca@thebloomi.com",
+    "tz": "America/Los_Angeles",
+    "day": 10
+   },
+   {
+    "slug": "unbound",
+    "email": "polly@unboundbabes.com",
+    "tz": "America/New_York",
+    "day": 10
+   },
+   {
+    "slug": "pelvic-people",
+    "email": "emily@thepelvicpeople.com",
+    "tz": "America/New_York",
+    "day": 10
+   },
+   {
+    "slug": "aloe-up",
+    "email": "tom@aloeup.com",
+    "tz": "America/Chicago",
+    "day": 10
+   },
+   {
+    "slug": "hawkgrips",
+    "email": "oz@hawkgrips.com",
+    "tz": "America/New_York",
+    "day": 10
+   },
+   {
+    "slug": "shameless-pets",
+    "email": "james@shamelesspets.com",
+    "tz": "America/New_York",
+    "day": 10
+   },
+   {
+    "slug": "shepherd-boy-farms",
+    "email": "ashton@shepherdboyfarms.com",
+    "tz": "America/Indiana/Indianapolis",
+    "day": 10
+   },
+   {
+    "slug": "element-apothec",
+    "email": "david@elementapothec.com",
+    "tz": "America/Los_Angeles",
+    "day": 10
+   },
+   {
+    "slug": "kineon",
+    "email": "forrest@kineon.io",
+    "tz": "America/New_York",
+    "day": 10
+   },
+   {
+    "slug": "under-the-weather",
+    "email": "phil@undertheweatherpet.com",
+    "tz": "America/New_York",
+    "day": 10
+   },
+   {
+    "slug": "naboso",
+    "email": "dremily@naboso.com",
+    "tz": "America/Phoenix",
+    "day": 10
+   },
+   {
+    "slug": "phoenix-hipwear",
+    "email": "natasha@phoenixhips.com",
+    "tz": "America/Chicago",
+    "day": 10
+   }
+  ],
+  "2026-11-17": [
+   {
+    "slug": "hostage-tape",
+    "email": "alex@hostagetape.com",
+    "tz": "America/Chicago",
+    "day": 7
+   },
+   {
+    "slug": "saalt",
+    "email": "jon.hoeger@saalt.com",
+    "tz": "America/Boise",
+    "day": 7
+   },
+   {
+    "slug": "ingrid-and-isabel",
+    "email": "ingrid@ingridandisabel.com",
+    "tz": "America/Los_Angeles",
+    "day": 7
+   },
+   {
+    "slug": "lord-jameson",
+    "email": "sarah@lordjameson.com",
+    "tz": "America/New_York",
+    "day": 7
+   },
+   {
+    "slug": "chippin",
+    "email": "haley@chippinpet.com",
+    "tz": "America/New_York",
+    "day": 7
+   },
+   {
+    "slug": "sposie",
+    "email": "ryan.wright@sposie.com",
+    "tz": "America/New_York",
+    "day": 7
+   },
+   {
+    "slug": "uberlube",
+    "email": "stephen@uberlube.com",
+    "tz": "America/Chicago",
+    "day": 7
+   },
+   {
+    "slug": "manamed",
+    "email": "trevor.theriot@manamed.com",
+    "tz": "America/Chicago",
+    "day": 3
+   },
+   {
+    "slug": "reparel",
+    "email": "joe@reparel.com",
+    "tz": "America/Los_Angeles",
+    "day": 3
+   },
+   {
+    "slug": "green-drop",
+    "email": "mattl@greendropcompression.com",
+    "tz": "America/New_York",
+    "day": 3
+   },
+   {
+    "slug": "braceability",
+    "email": "shaun@braceability.com",
+    "tz": "America/Chicago",
+    "day": 3
+   },
+   {
+    "slug": "bramble",
+    "email": "amanda@bramblepets.com",
+    "tz": "America/New_York",
+    "day": 3
+   },
+   {
+    "slug": "medminder",
+    "email": "troy.hilsenroth@medminder.com",
+    "tz": "America/New_York",
+    "day": 3
+   },
+   {
+    "slug": "thermotex",
+    "email": "joseph@thermotex.com",
+    "tz": "America/Edmonton",
+    "day": 3
+   }
+  ],
+  "2026-11-19": [
+   {
+    "slug": "hostage-tape",
+    "email": "alex@hostagetape.com",
+    "tz": "America/Chicago",
+    "day": 10
+   },
+   {
+    "slug": "saalt",
+    "email": "jon.hoeger@saalt.com",
+    "tz": "America/Boise",
+    "day": 10
+   },
+   {
+    "slug": "ingrid-and-isabel",
+    "email": "ingrid@ingridandisabel.com",
+    "tz": "America/Los_Angeles",
+    "day": 10
+   },
+   {
+    "slug": "lord-jameson",
+    "email": "sarah@lordjameson.com",
+    "tz": "America/New_York",
+    "day": 10
+   },
+   {
+    "slug": "chippin",
+    "email": "haley@chippinpet.com",
+    "tz": "America/New_York",
+    "day": 10
+   },
+   {
+    "slug": "sposie",
+    "email": "ryan.wright@sposie.com",
+    "tz": "America/New_York",
+    "day": 10
+   },
+   {
+    "slug": "uberlube",
+    "email": "stephen@uberlube.com",
+    "tz": "America/Chicago",
+    "day": 10
+   },
+   {
+    "slug": "manamed",
+    "email": "trevor.theriot@manamed.com",
+    "tz": "America/Chicago",
+    "day": 7
+   },
+   {
+    "slug": "reparel",
+    "email": "joe@reparel.com",
+    "tz": "America/Los_Angeles",
+    "day": 7
+   },
+   {
+    "slug": "green-drop",
+    "email": "mattl@greendropcompression.com",
+    "tz": "America/New_York",
+    "day": 7
+   },
+   {
+    "slug": "braceability",
+    "email": "shaun@braceability.com",
+    "tz": "America/Chicago",
+    "day": 7
+   },
+   {
+    "slug": "bramble",
+    "email": "amanda@bramblepets.com",
+    "tz": "America/New_York",
+    "day": 7
+   },
+   {
+    "slug": "medminder",
+    "email": "troy.hilsenroth@medminder.com",
+    "tz": "America/New_York",
+    "day": 7
+   },
+   {
+    "slug": "thermotex",
+    "email": "joseph@thermotex.com",
+    "tz": "America/Edmonton",
+    "day": 7
+   }
+  ],
+  "2026-11-23": [
+   {
+    "slug": "manamed",
+    "email": "trevor.theriot@manamed.com",
+    "tz": "America/Chicago",
+    "day": 10
+   },
+   {
+    "slug": "reparel",
+    "email": "joe@reparel.com",
+    "tz": "America/Los_Angeles",
+    "day": 10
+   },
+   {
+    "slug": "green-drop",
+    "email": "mattl@greendropcompression.com",
+    "tz": "America/New_York",
+    "day": 10
+   },
+   {
+    "slug": "braceability",
+    "email": "shaun@braceability.com",
+    "tz": "America/Chicago",
+    "day": 10
+   },
+   {
+    "slug": "bramble",
+    "email": "amanda@bramblepets.com",
+    "tz": "America/New_York",
+    "day": 10
+   },
+   {
+    "slug": "medminder",
+    "email": "troy.hilsenroth@medminder.com",
+    "tz": "America/New_York",
+    "day": 10
+   },
+   {
+    "slug": "thermotex",
+    "email": "joseph@thermotex.com",
+    "tz": "America/Edmonton",
+    "day": 10
+   }
+  ]
+ }
+}
