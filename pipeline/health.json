@@ -1,1 +1,12 @@
-{"updated": "2026-11-09T18:06:11Z", "floor": 120, "target": 150, "daily_sends": 40, "sendable": 0, "researched": 0, "ready": 0, "in_sequence": 0, "runway_days": 0, "note": "Pipeline empty: finder needs SEARCH_API_KEY + EMAIL_FINDER_KEY + EMAIL_VERIFY_KEY"}
+{
+  "updated": "2026-11-10T03:16:00Z",
+  "floor": 120,
+  "target": 150,
+  "daily_sends": 40,
+  "sendable": 91,
+  "researched": 105,
+  "ready": 91,
+  "in_sequence": 0,
+  "runway_days": 2.3,
+  "note": "91 verified leads promoted to ready. 14 catch-all quarantined under review."
+}
