@@ -1,31 +1,31 @@
 {
- "updated": "2026-11-09T18:06:11Z",
- "leads_total": 76,
- "contacted": 74,
- "bounced": [
-  "belly-bandit",
-  "joe-and-bella",
-  "wonder-bark"
- ],
- "replies": 0,
- "followups_sent": 28,
- "next_followups": {
-  "2026-11-09": 30,
-  "2026-11-10": 29,
-  "2026-11-11": 30,
-  "2026-11-12": 29,
-  "2026-11-13": 30
- },
- "sender": "CLAUDE",
- "daily_cap": 30,
- "totals": {
-  "claude_first_emails": 76,
-  "claude_followups": 28,
-  "bot_sends": 0,
-  "all_sends": 104
- },
- "crm_stages": {
-  "sent": 73,
-  "lost": 3
- }
+  "updated": "2026-11-10T03:14:00Z",
+  "leads_total": 181,
+  "contacted": 102,
+  "bounced": [
+    "belly-bandit",
+    "joe-and-bella",
+    "wonder-bark"
+  ],
+  "replies": 0,
+  "followups_sent": 28,
+  "next_followups": {
+    "2026-11-09": 30,
+    "2026-11-10": 29,
+    "2026-11-11": 30,
+    "2026-11-12": 29,
+    "2026-11-13": 30
+  },
+  "sender": "BOTH (Claude Follow-ups + Bot Outbound)",
+  "daily_cap": 40,
+  "totals": {
+    "claude_first_emails": 76,
+    "claude_followups": 28,
+    "bot_sends": 26,
+    "all_sends": 130
+  },
+  "crm_stages": {
+    "sent": 99,
+    "lost": 3
+  }
 }
