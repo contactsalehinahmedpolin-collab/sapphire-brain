@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-09T15:59:16Z",
+ "updated": "2026-11-09T17:19:27Z",
  "totals": {
   "claude_first_emails": 76,
-  "claude_followups": 14,
+  "claude_followups": 22,
   "bot_sends": 0,
-  "all_sends": 90
+  "all_sends": 98
  },
  "by_day": {
   "2026-11-02": {
@@ -33,9 +33,9 @@
   },
   "2026-11-09": {
    "claude_first": 0,
-   "claude_followup": 14,
+   "claude_followup": 22,
    "bot": 0,
-   "total": 14
+   "total": 22
   }
  },
  "crm_stages": {
@@ -126,11 +126,11 @@
   "2026-11-05T19:15:00Z batch14 bramble amanda@bramblepets.com",
   "2026-11-05T19:15:00Z batch14 medminder troy.hilsenroth@medminder.com",
   "2026-11-05T19:15:00Z batch14 thermotex joseph@thermotex.com",
-  "2026-11-09T15:47:10Z curlmix day3 sent",
-  "2026-11-09T15:53:00Z mela day7 sent",
-  "2026-11-09T15:53:00Z healthy-back day3 sent",
-  "2026-11-09T15:58:00Z llama-naturals day3 sent",
-  "2026-11-09T15:58:00Z pd-labs day3 sent"
+  "2026-11-09T16:14:00Z prevagen day3 sent",
+  "2026-11-09T16:18:00Z happy-mammoth day3 sent",
+  "2026-11-09T16:18:00Z primal-harvest day3 sent",
+  "2026-11-09T16:22:30Z womaness day3 sent",
+  "2026-11-09T16:44:30Z physicians-choice day3 sent"
  ],
  "last_bot_actions": []
 }
