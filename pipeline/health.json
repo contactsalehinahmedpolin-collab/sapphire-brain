@@ -1,1 +1,15 @@
-{"updated": "2026-11-10T14:13:55Z", "floor": 120, "target": 150, "daily_sends": 40, "sendable": 91, "researched": 105, "ready": 91, "in_sequence": 0, "runway_days": 2.3, "note": "91 verified leads promoted to ready. 14 catch-all quarantined under review."}
+{
+ "updated": "2026-11-10T14:15:55Z",
+ "floor": 120,
+ "target": 150,
+ "daily_sends": 40,
+ "unique_leads": 49,
+ "sendable": 48,
+ "ready": 0,
+ "review": 48,
+ "rejected": 56,
+ "in_sequence": 1,
+ "researched": 2,
+ "runway_days": 0.0,
+ "note": "Audit by Claude 10 Nov: 50 duplicate rows (-2/-3 copies) and 6 wrong-fit/invalid leads rejected. No emails were verified (finder spend $0, no verifier key), so all leads held in review until verified + researched."
+}
