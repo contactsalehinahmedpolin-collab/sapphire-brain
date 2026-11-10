@@ -1,12 +1,1 @@
-{
-  "updated": "2026-11-10T03:16:00Z",
-  "floor": 120,
-  "target": 150,
-  "daily_sends": 40,
-  "sendable": 91,
-  "researched": 105,
-  "ready": 91,
-  "in_sequence": 0,
-  "runway_days": 2.3,
-  "note": "91 verified leads promoted to ready. 14 catch-all quarantined under review."
-}
+{"updated": "2026-11-10T14:13:55Z", "floor": 120, "target": 150, "daily_sends": 40, "sendable": 91, "researched": 105, "ready": 91, "in_sequence": 0, "runway_days": 2.3, "note": "91 verified leads promoted to ready. 14 catch-all quarantined under review."}
