@@ -51,12 +51,13 @@
     ],
     "subject": "anders, the myo-nozzle reorder",
     "body": "Hi Anders,\n\nThe Myo-Nozzle sells mostly through your own site, which means you own every customer. The next step is usually Amazon and retail, and that's when unit cost and the reorder start to matter most.\n\nI run sourcing out of Guangdong. Send me the Myo-Nozzle spec and in 5 days I'll send back a factory quote on the silicone part and packaging, next to what you pay now, plus 3 ideas to turn one-time buyers into repeat ones.\n\nWorth a look? Just reply \"yes\".\n\nSalehin\nSapphire Lead\n\nNot relevant? Reply \"stop\" and I won't email again.",
-    "status": "scheduled_by_claude",
+    "status": "scheduled_failed",
     "send_utc": "2026-11-12T15:41:00Z",
     "queued_at": "2026-11-12T00:10:00Z",
     "note": "first email sent by a one-off scheduled task; agent handles follow-ups",
     "niche": 0,
-    "score": null
+    "score": null,
+    "fail_note": "2026-11-12T15:58Z nh-agent: 15:41Z one-off task fired but nothing in Gmail Sent (same as Cranel/Ruff Liners). NOT contacted. Needs Polin OK to requeue."
   },
   {
     "key": "z-coil",
