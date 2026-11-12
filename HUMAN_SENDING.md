@@ -3,7 +3,7 @@ Set 12 Nov 2026 at Polin's request: "send in a humanised manner so my email is p
 
 Applies to every email sent from contact.salehinahmedpolin@gmail.com (personal) and appointment.sapphirelead@gmail.com.
 
-1. **Volume.** At most 10 cold emails a day from the personal Gmail; at most 20 from the Sapphire Gmail. No sending on weekends.
+1. **Volume.** At most 15 emails a day in total from the personal Gmail (first emails + follow-ups), of which at most 8 first emails; at most 20 from the Sapphire Gmail. No sending on weekends.
 2. **Timing.** Send at 9:00–11:30 in the recipient's time zone, never on the hour. Wait 20–45 minutes (random) between sends from the same inbox. No bursts.
 3. **Only verified addresses.** MillionVerifier result=ok AND quality=good (Make tool "Verify email with Million Verifier"). Catch-all, unknown or invalid addresses are never sent.
 4. **Plain like a person.**
