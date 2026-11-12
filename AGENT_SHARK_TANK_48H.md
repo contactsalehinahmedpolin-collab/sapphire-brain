@@ -65,6 +65,7 @@ Each run sends **at most one** email.
    - The connected Gmail must be contact.salehinahmedpolin@gmail.com. Check it by searching in:sent to:dan@reddremedies.com, which should find message 1a1cd005b66818a1. If it isn't, send nothing and tell Polin.
    - If `from:mailer-daemon newer_than:1d` finds a bounce for any address we sent to, pause: send nothing today, mark that lead "bounced" in the queue and the do-not-contact list, and tell Polin.
    - If today's sends from this inbox (all `contact.salehinahmedpolin` lines in `outbox/sent.log` with today's UTC date) are already 10 or more, stop.
+   - If the last send from this inbox (newest line in `outbox/sent.log`, or Gmail in:sent) was less than 20 minutes ago, or another scheduled send is due in the next 20 minutes (check `send_utc` of items with status "scheduled_by_claude" in the queue), do nothing this run. This keeps the gaps human.
 2. **Replies first:** search Gmail `newer_than:2d -from:me` for messages from any address in the queue or the sent log.
    - On a reply: mark the lead "replied" and tell Polin immediately (push), with the reply's first 300 characters and a draft answer. Never send the answer without his ✅.
    - On a "stop": mark the lead "stopped".
