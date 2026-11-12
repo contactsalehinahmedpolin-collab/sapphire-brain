@@ -1,307 +1,308 @@
 [
-  {
-    "key": "cranel",
-    "brand": "CRANEL",
-    "first": "Erica",
-    "email": "erica@cranel.co",
-    "tz": "America/New_York",
-    "source_urls": [
-      "https://www.sharktankblog.com/shark-tank/shark-tank-episodes/season-17-shark-tank-episodes/",
-      "https://thingtesting.com/brands/cranel",
-      "https://moviedelic.com/cranel-cranberry-elixir-shark-tank"
-    ],
-    "subject": "erica, the elixir after shark tank",
-    "body": "Hi Erica,\n\nCranel got its Shark Tank moment, and the elixir is what people remember. On your site it now sits among serums, collagen and bundles, so a first-time buyer has a lot to decide.\n\nI run sourcing out of Guangdong. Send me one product and in 5 days I'll send back a factory quote on the bottles and packaging, next to what you pay now, plus 3 ideas to turn first orders into a monthly habit.\n\nWorth a look? Just reply \"yes\".\n\nSalehin\nSapphire Lead\n\nNot relevant? Reply \"stop\" and I won't email again.",
-    "status": "scheduled_failed",
-    "send_utc": "2026-11-12T14:37:00Z",
-    "queued_at": "2026-11-12T00:10:00Z",
-    "note": "first email sent by a one-off scheduled task; agent handles follow-ups",
-    "niche": 0,
-    "score": null,
-    "fail_note": "2026-11-12T15:30Z nh-agent: one-off task fired but nothing in Gmail Sent; source file /home/claude/work/q4/out/batch_nov12_tank.json missing in cloud. NOT contacted. Needs Polin OK to requeue."
-  },
-  {
-    "key": "ruff-liners",
-    "brand": "Ruff Liners",
-    "first": "Brandon",
-    "email": "brandon@ruffliners.com",
-    "tz": "America/Chicago",
-    "source_urls": [
-      "https://www.sharktankblog.com/business/ruff-liners",
-      "https://next.geeksaroundglobe.com/ruff-liners-net-worth-shark-tank-update"
-    ],
-    "subject": "brandon, before retail",
-    "body": "Hi Brandon,\n\nRuff Liners grew fast on your own site and Amazon, with margins most pet brands would envy. Retail changes that math: once a chain takes its share, the landed cost of each cover decides whether a store order is worth taking.\n\nI run sourcing out of Guangdong. Send me your best-selling cover and in 5 days I'll send back a factory quote next to what you pay now, plus 3 ideas to bring retail buyers back to you.\n\nWorth a look? Just reply \"yes\".\n\nSalehin\nSapphire Lead\n\nNot relevant? Reply \"stop\" and I won't email again.",
-    "status": "scheduled_failed",
-    "send_utc": "2026-11-12T15:06:00Z",
-    "queued_at": "2026-11-12T00:10:00Z",
-    "note": "first email sent by a one-off scheduled task; agent handles follow-ups",
-    "niche": 0,
-    "score": null,
-    "fail_note": "2026-11-12T15:30Z nh-agent: one-off task fired but nothing in Gmail Sent; source file /home/claude/work/q4/out/batch_nov12_tank.json missing in cloud. NOT contacted. Needs Polin OK to requeue."
-  },
-  {
-    "key": "remplenish",
-    "brand": "REMplenish",
-    "first": "Anders",
-    "email": "anders@remplenish.com",
-    "tz": "America/Chicago",
-    "source_urls": [
-      "https://www.sharktankblog.com/business/remplenish"
-    ],
-    "subject": "anders, the myo-nozzle reorder",
-    "body": "Hi Anders,\n\nThe Myo-Nozzle sells mostly through your own site, which means you own every customer. The next step is usually Amazon and retail, and that's when unit cost and the reorder start to matter most.\n\nI run sourcing out of Guangdong. Send me the Myo-Nozzle spec and in 5 days I'll send back a factory quote on the silicone part and packaging, next to what you pay now, plus 3 ideas to turn one-time buyers into repeat ones.\n\nWorth a look? Just reply \"yes\".\n\nSalehin\nSapphire Lead\n\nNot relevant? Reply \"stop\" and I won't email again.",
-    "status": "scheduled_failed",
-    "send_utc": "2026-11-12T15:41:00Z",
-    "queued_at": "2026-11-12T00:10:00Z",
-    "note": "first email sent by a one-off scheduled task; agent handles follow-ups",
-    "niche": 0,
-    "score": null,
-    "fail_note": "2026-11-12T15:58Z nh-agent: 15:41Z one-off task fired but nothing in Gmail Sent (same as Cranel/Ruff Liners). NOT contacted. Needs Polin OK to requeue."
-  },
-  {
-    "key": "z-coil",
-    "brand": "Z-Coil",
-    "first": "Andres",
-    "email": "andres@zcoil.com",
-    "tz": "America/Denver",
-    "source_urls": [
-      "https://www.sharktankblog.com/business/z-coil/"
-    ],
-    "subject": "andres, the customers who never left",
-    "body": "Hi Andres,\n\nZ-Coil has something most footwear brands never get: people who have worn the same shoe for years because it lets them stay on their feet. That loyalty is the easiest thing to grow from.\n\nI'm based in Guangdong. Send me one style and in 5 days I'll send back a factory quote on the components and packaging, next to what you pay now, plus 3 ideas to bring past buyers back.\n\nWorth a look? Just reply \"yes\".\n\nSalehin\nSapphire Lead\n\nNot relevant? Reply \"stop\" and I won't email again.",
-    "status": "scheduled_by_claude",
-    "send_utc": "2026-11-12T16:13:00Z",
-    "queued_at": "2026-11-12T00:10:00Z",
-    "note": "first email sent by a one-off scheduled task; agent handles follow-ups",
-    "niche": 0,
-    "score": null
-  },
-  {
-    "key": "paco-and-pepper",
-    "brand": "Paco & Pepper",
-    "first": "Kristina",
-    "email": "kristina@pacoandpepper.com",
-    "tz": "America/Los_Angeles",
-    "source_urls": [
-      "https://www.sharktankblog.com/business/paco-and-pepper"
-    ],
-    "subject": "kristina, olive pits and margin",
-    "body": "Hi Kristina,\n\nYou walked away from Kevin's royalty and kept building Paco & Pepper your way. As the litter goes into more stores and Meowtamins grows, packaging and freight decide how much margin each bag keeps.\n\nI run sourcing out of Guangdong. Send me the litter bag or a Meowtamins bottle and in 5 days I'll send back a factory quote next to what you pay now, plus 3 ideas to turn shelf buyers into subscribers on your site.\n\nWorth a look? Just reply \"yes\".\n\nSalehin\nSapphire Lead\n\nNot relevant? Reply \"stop\" and I won't email again.",
-    "status": "scheduled_by_claude",
-    "send_utc": "2026-11-12T17:22:00Z",
-    "queued_at": "2026-11-12T00:10:00Z",
-    "note": "first email sent by a one-off scheduled task; agent handles follow-ups",
-    "niche": 0,
-    "score": null
-  },
-  {
-    "key": "mirai-clinical",
-    "brand": "Mirai Clinical",
-    "first": "Koko",
-    "email": "koko@miraiclinical.com",
-    "tz": "America/Los_Angeles",
-    "source_urls": [
-      "https://www.beautyindependent.com/mirai-clinical-founder-koko-hayashi-shark-tank/",
-      "https://miraiclinical.com/blogs/japanese-culture-blog/mirai-clinical-ranks-no-2410-on-inc-5000-americas-fastest-growing-companies"
-    ],
-    "subject": "koko, the daughter who buys it",
-    "body": "Hi Koko,\n\nMirai Clinical made the Inc. 5000 without a Shark Tank investor, which says the product works. Many of your buyers are probably adult children buying for a parent, and they shop differently: gift sets, a gentle way to bring it up, and an easy reorder.\n\nI'm based in Guangdong. In 5 days I can send you a factory quote on gift boxes and packaging, next to what you pay now, plus 3 ideas for the gift buyer.\n\nWorth a look? Just reply \"yes\".\n\nSalehin\nSapphire Lead\n\nNot relevant? Reply \"stop\" and I won't email again.",
-    "status": "scheduled_by_claude",
-    "send_utc": "2026-11-12T17:58:00Z",
-    "queued_at": "2026-11-12T00:10:00Z",
-    "note": "first email sent by a one-off scheduled task; agent handles follow-ups",
-    "niche": 0,
-    "score": null
-  },
-  {
-    "key": "skimpies",
-    "niche": 0,
-    "brand": "Skimpies",
-    "founder": "Bette Bentley",
-    "first": "Bette",
-    "title": "Founder",
-    "email": "bette@skimpies.com",
-    "domain": "skimpies.com",
-    "tz": "America/Los_Angeles",
-    "score": 80,
-    "evidence": "Aired Shark Tank S18E2 on 30 Sep 2026 (Corcoran $250K/8%), 43 days ago (+20); Shark Tank Blog lists it out of stock on Amazon and Walmart (+25); founder-run (+15); ~$570K 2025 sales, Walmart (+20)",
-    "source_urls": [
-      "https://www.sharktankblog.com/business/skimpies/",
-      "https://skimpies.com/pages/about-us"
-    ],
-    "subject": "bette, the amazon gap",
-    "body": "Hi Bette,\n\nSince Skimpies aired in September, Shark Tank Blog has listed it as out of stock on Amazon and Walmart. Every week a liner is unavailable, a new buyer tries a cheaper copy and may not come back.\n\nI run a registered company in Guangdong with direct factory access. In 72 hours I can send you a written quote from a backup factory for the liners and boxes, with landed cost and duty included. No cost, yours to keep.\n\nWorth a look? Just reply \"yes\".\n\nSalehin\nSapphire Lead\n\nNot relevant? Reply \"stop\" and I won't email again.",
-    "status": "queued",
-    "queued_at": "2026-11-12T08:04:37Z"
-  },
-  {
-    "key": "calmerceuticals",
-    "niche": 1,
-    "brand": "Calmerceuticals",
-    "founder": "Rose Rayner",
-    "first": "Rose",
-    "title": "Founder",
-    "email": "rose@calmerceuticals.com",
-    "domain": "calmerceuticals.com",
-    "tz": "Australia/Sydney",
-    "score": 70,
-    "evidence": "iTWire 25 Aug 2026: sold out 8 times, 92% subscriber retention, US launch via 3PL in prep (+20); repeated sell-outs (+25); founder-run (+15); 1 sachet/min, top-1% Shopify (+20); -10 judgement: refuses offshore manufacturing, so pitch is packaging only",
-    "source_urls": [
-      "https://itwire.com/science-news/health/great-karma-1-sachet-a-minute-92-subscriber-retention-calmerceuticals-founder-rose-rayner-on-data-ai-and-why-she-refused-to-manufacture-offshore",
-      "https://calmerceuticals.com/pages/about-us"
-    ],
-    "subject": "rose, sold out eight times",
-    "body": "Hi Rose,\n\nYou've sold out eight times and are getting ready for a US launch. Each sell-out sends a subscriber looking elsewhere, and a US launch makes that gap more costly.\n\nYour Gold Coast lab should stay as it is. I run a registered company in Guangdong with direct factory access. I can quote your outer cartons and sachet film next to what you pay now, plus 3 fixes for the US launch. No cost, yours to keep.\n\nWorth a look? Just reply \"yes\".\n\nSalehin\nSapphire Lead\n\nNot relevant? Reply \"stop\" and I won't email again.",
-    "status": "queued",
-    "queued_at": "2026-11-12T08:04:37Z"
-  },
-  {
-    "key": "dr-judy-morgan",
-    "niche": 2,
-    "brand": "Dr. Judy Morgan's Naturally Healthy Pets",
-    "founder": "Judy Morgan",
-    "first": "Judy",
-    "title": "Founder (DVM)",
-    "email": "judy@drjudymorgan.com",
-    "domain": "drjudymorgan.com",
-    "tz": "America/New_York",
-    "score": 60,
-    "evidence": "Vet-formulated own line; store filter shows 8 products out of stock and no subscribe option on consumables (+25); founder-run (+15); Inc. 5000 2023, books, podcast (+20); trigger older than 90 days (0)",
-    "source_urls": [
-      "https://drjudymorgan.com/collections/dr-judy-products",
-      "https://www.dvm360.com/view/new-human-grade-palmitoylethanolamide-supplement-for-dogs-and-cats"
-    ],
-    "subject": "judy, 8 out of stock",
-    "body": "Hi Judy,\n\nYour store shows 8 Dr. Judy products out of stock, and the powders and capsules have no subscribe option. When a regular can't reorder, they often pick up a substitute at the pet store and don't come back.\n\nI run a registered company in Guangdong with direct factory access. I can send you a written factory quote on your jars, dropper bottles and capsule bottles next to what you pay now, plus 3 fixes for reorders. No cost, yours to keep.\n\nWorth a look? Just reply \"yes\".\n\nSalehin\nSapphire Lead\n\nNot relevant? Reply \"stop\" and I won't email again.",
-    "status": "queued",
-    "queued_at": "2026-11-12T08:04:37Z"
-  },
-  {
-    "key": "rosebud-perfume",
-    "niche": 3,
-    "brand": "Rosebud Perfume Co. (Smith's Rosebud Salve)",
-    "founder": "Linda Pruitt-Michielli",
-    "first": "Linda",
-    "title": "President",
-    "email": "linda@rosebudperfume.com",
-    "domain": "rosebudperfume.com",
-    "tz": "America/New_York",
-    "score": 60,
-    "evidence": "130-year family company, 4th generation; site has no cart (email/phone to order), Lorem ipsum on homepage, 'copy-of' Wix slugs (+25); ~5 staff (+15); sold worldwide via retailers (+20)",
-    "source_urls": [
-      "https://wcbm.com/?p=120516",
-      "https://www.rosebudperfume.com/",
-      "https://www.rosebudperfume.com/copy-of-about"
-    ],
-    "subject": "linda, ordering rosebud online",
-    "body": "Hi Linda,\n\nRosebud Salve has fans around the world, yet your website has no cart: people have to email or phone to order, and the homepage still shows placeholder text. Buyers who can't check out in a minute go elsewhere.\n\nI run a registered company in Guangdong with direct factory access. I can send you a written factory quote on your tins, tubes and gift boxes next to what you pay now, plus 3 fixes for the website. No cost, yours to keep.\n\nWorth a look? Just reply \"yes\".\n\nSalehin\nSapphire Lead\n\nNot relevant? Reply \"stop\" and I won't email again.",
-    "status": "hold_fit",
-    "queued_at": "2026-11-12T08:04:37Z",
-    "fit_note": "Held by client-fit gate 2026-11-12: ~5 staff, no online store, no revenue signal; unlikely to fund the $1.5K audit or $5K retainer. Moved to warmed-inbox list."
-  },
-  {
-    "key": "moose-pharmacy",
-    "niche": 6,
-    "brand": "Moose Pharmacy",
-    "founder": "Whit Moose",
-    "first": "Whit",
-    "title": "Co-owner",
-    "email": "whit@moosepharmacy.com",
-    "domain": "moosepharmacy.com",
-    "tz": "America/New_York",
-    "score": 60,
-    "evidence": "Own-label line (~15 SKUs); Whit said finding a willing private-label manufacturer was the hardest part (+25); family-run (+15); 7-8 pharmacies near Charlotte, since 1882 (+20); trigger 2021 (0)",
-    "source_urls": [
-      "https://www.pbahealth.com/elements/national-retail-trend-should-pharmacies-create-their-own-brand-of-otc-products/",
-      "https://www.moosepharmacy.com/moose-pharmacy-brand-products"
-    ],
-    "subject": "whit, the moose brand",
-    "body": "Hi Whit,\n\nYou told PBA Health the hardest part of the Moose Pharmacy brand was finding a manufacturer willing to make it. With around 15 own-label products now, one supplier is a single point of failure.\n\nI run a registered company in Guangdong with direct factory access. I can send you a written factory quote on your bottles, caps and labels next to what you pay now, plus 3 fixes to grow the line. No cost, yours to keep.\n\nWorth a look? Just reply \"yes\".\n\nSalehin\nSapphire Lead\n\nNot relevant? Reply \"stop\" and I won't email again.",
-    "status": "queued",
-    "queued_at": "2026-11-12T08:04:37Z"
-  },
-  {
-    "key": "joyvie-health",
-    "niche": 8,
-    "brand": "Joyvié Health",
-    "founder": "Zoe Robson",
-    "first": "Zoe",
-    "title": "Founder & CEO",
-    "email": "zoe@wearjoyvie.com",
-    "domain": "wearjoyvie.com",
-    "tz": "Europe/London",
-    "score": 35,
-    "evidence": "£774k pre-seed announced 8 Jun 2026 (>90 days, 0); DTC launch planned later in 2026; founder-run (+15); funded (+20)",
-    "source_urls": [
-      "https://femtechinsider.com/joyvie-health-raises-771k-to-redesign-continence-underwear-from-first-principles/",
-      "https://www.startupmag.co.uk/funding/joyvie-health-2026-pre-seed-funding/"
-    ],
-    "subject": "zoe, before the dtc launch",
-    "body": "Hi Zoe,\n\nCongratulations on the pre-seed round. As Joyvié moves from care-home pilots to direct-to-consumer, the buyer is often the adult daughter or son, and refill pouches have to arrive on time or they switch back to pads.\n\nI run a registered company in Guangdong with direct factory access. I can send you a written factory quote on your pouches, refill packs and boxes next to what you pay now, plus 3 fixes for reaching the adult child. No cost, yours to keep.\n\nWorth a look? Just reply \"yes\".\n\nSalehin\nSapphire Lead\n\nNot relevant? Reply \"stop\" and I won't email again.",
-    "status": "queued",
-    "queued_at": "2026-11-12T08:04:37Z"
-  },
-  {
-    "key": "herbal-dog-co",
-    "niche": 7,
-    "brand": "Herbal Dog Co",
-    "founder": "Gemma Stocks",
-    "first": "Gemma",
-    "title": "Founder",
-    "email": "gemma@herbaldogco.com",
-    "domain": "herbaldogco.com",
-    "tz": "Europe/London",
-    "score": 35,
-    "evidence": "Said on a podcast (Oct 2025) it made ~£1M via TikTok Shop (>90 days, 0); founder-run (+15); £1M TikTok, Channel 4 (+20)",
-    "source_urls": [
-      "https://www.audioscrape.com/podcast/your-pet-business-your-way/episode/gemma-stocks-the-herbal-dog-co-from-kitchen-table-to-biggest-pet-brand-on-tiktok-30000",
-      "https://herbaldogco.com/collections/functional-supplements"
-    ],
-    "subject": "gemma, after tiktok shop",
-    "body": "Hi Gemma,\n\nAbout £1M through TikTok Shop from a kitchen table in Newcastle is rare. At that pace, packaging costs and stock gaps eat the margin fastest, and one viral week can empty the shelf.\n\nI run a registered company in Guangdong with direct factory access. I can send you a written factory quote on your pouches, tubs and bottles next to what you pay now, plus 3 fixes to turn TikTok buyers into repeat buyers. No cost, yours to keep.\n\nWorth a look? Just reply \"yes\".\n\nSalehin\nSapphire Lead\n\nNot relevant? Reply \"stop\" and I won't email again.",
-    "status": "queued",
-    "queued_at": "2026-11-12T08:04:37Z"
-  },
-  {
-    "key": "love-mushrooms",
-    "niche": 1,
-    "brand": "Love Mushrooms",
-    "founder": "Smith Feeney",
-    "first": "Smith",
-    "title": "Co-founder",
-    "email": "smith@lovemushrooms.co.uk",
-    "domain": "lovemushrooms.co.uk",
-    "tz": "Europe/London",
-    "score": 35,
-    "evidence": "Boots online listing 1 Apr 2026 (>90 days, 0); founder-run (+15); Tesco 250 stores, H&B, Boots (+20)",
-    "source_urls": [
-      "https://retailtimes.co.uk/love-mushrooms-supplement-brand-lands-in-boots-online/",
-      "https://pressandjournal.co.uk/fp/business/6583677/love-mushrooms-moray-brand-to-appear-in-250-tesco-stores"
-    ],
-    "subject": "smith, boots and tesco",
-    "body": "Hi Smith,\n\nGetting Love Mushrooms into Boots online on top of 250 Tesco stores and Holland & Barrett is a big year. Retail margins leave little room, so every penny on jars, droppers and cartons shows up in the numbers.\n\nI run a registered company in Guangdong with direct factory access. I can send you a written factory quote on your capsule jars, dropper bottles and cartons next to what you pay now, plus 3 fixes for repeat orders. No cost, yours to keep.\n\nWorth a look? Just reply \"yes\".\n\nSalehin\nSapphire Lead\n\nNot relevant? Reply \"stop\" and I won't email again.",
-    "status": "queued",
-    "queued_at": "2026-11-12T08:04:37Z"
-  },
-  {
-    "key": "furr-boost",
-    "niche": 1,
-    "brand": "Furr Boost",
-    "founder": "Louise Toal",
-    "first": "Louise",
-    "title": "Founder",
-    "email": "louise.toal@furrboost.com",
-    "domain": "furrboost.com",
-    "tz": "Europe/London",
-    "score": 35,
-    "evidence": "Sainsbury's 250-store listing Oct 2025 (old, 0); founder-run (+15); turnover doubled after Dragons' Den, Sainsbury's/Jollyes/VioVet (+20). Promoted from warmed-inbox list by client-fit gate.",
-    "source_urls": [
-      "https://www.shropshirestar.com/news/2025/10/09/dragons-den-winner-from-shropshire-celebrates-sainsburys-listing-for-dog-smoothie-brand-furr-boost"
-    ],
-    "subject": "louise, the sainsbury's rollout",
-    "body": "Hi Louise,\n\nGetting Furr Boost into 250 Sainsbury's stores after the Den is a real result. Supermarket margins are thin, so the cost of every carton and shipper case comes straight out of what's left for you.\n\nI run a registered company in Guangdong with direct factory access. I can send you a written factory quote on your cartons and shipper cases next to what you pay now, plus 3 fixes for repeat orders online. No cost, yours to keep.\n\nWorth a look? Just reply \"yes\".\n\nSalehin\nSapphire Lead\n\nNot relevant? Reply \"stop\" and I won't email again.",
-    "status": "queued",
-    "queued_at": "2026-11-12T11:06:32Z"
-  }
+ {
+  "key": "cranel",
+  "brand": "CRANEL",
+  "first": "Erica",
+  "email": "erica@cranel.co",
+  "tz": "America/New_York",
+  "source_urls": [
+   "https://www.sharktankblog.com/shark-tank/shark-tank-episodes/season-17-shark-tank-episodes/",
+   "https://thingtesting.com/brands/cranel",
+   "https://moviedelic.com/cranel-cranberry-elixir-shark-tank"
+  ],
+  "subject": "erica, the elixir after shark tank",
+  "body": "Hi Erica,\n\nCranel got its Shark Tank moment, and the elixir is what people remember. On your site it now sits among serums, collagen and bundles, so a first-time buyer has a lot to decide.\n\nI run sourcing out of Guangdong. Send me one product and in 5 days I'll send back a factory quote on the bottles and packaging, next to what you pay now, plus 3 ideas to turn first orders into a monthly habit.\n\nWorth a look? Just reply \"yes\".\n\nSalehin\nSapphire Lead\n\nNot relevant? Reply \"stop\" and I won't email again.",
+  "status": "scheduled_failed",
+  "send_utc": "2026-11-12T14:37:00Z",
+  "queued_at": "2026-11-12T00:10:00Z",
+  "note": "first email sent by a one-off scheduled task; agent handles follow-ups",
+  "niche": 0,
+  "score": null,
+  "fail_note": "2026-11-12T15:30Z nh-agent: one-off task fired but nothing in Gmail Sent; source file /home/claude/work/q4/out/batch_nov12_tank.json missing in cloud. NOT contacted. Needs Polin OK to requeue."
+ },
+ {
+  "key": "ruff-liners",
+  "brand": "Ruff Liners",
+  "first": "Brandon",
+  "email": "brandon@ruffliners.com",
+  "tz": "America/Chicago",
+  "source_urls": [
+   "https://www.sharktankblog.com/business/ruff-liners",
+   "https://next.geeksaroundglobe.com/ruff-liners-net-worth-shark-tank-update"
+  ],
+  "subject": "brandon, before retail",
+  "body": "Hi Brandon,\n\nRuff Liners grew fast on your own site and Amazon, with margins most pet brands would envy. Retail changes that math: once a chain takes its share, the landed cost of each cover decides whether a store order is worth taking.\n\nI run sourcing out of Guangdong. Send me your best-selling cover and in 5 days I'll send back a factory quote next to what you pay now, plus 3 ideas to bring retail buyers back to you.\n\nWorth a look? Just reply \"yes\".\n\nSalehin\nSapphire Lead\n\nNot relevant? Reply \"stop\" and I won't email again.",
+  "status": "scheduled_failed",
+  "send_utc": "2026-11-12T15:06:00Z",
+  "queued_at": "2026-11-12T00:10:00Z",
+  "note": "first email sent by a one-off scheduled task; agent handles follow-ups",
+  "niche": 0,
+  "score": null,
+  "fail_note": "2026-11-12T15:30Z nh-agent: one-off task fired but nothing in Gmail Sent; source file /home/claude/work/q4/out/batch_nov12_tank.json missing in cloud. NOT contacted. Needs Polin OK to requeue."
+ },
+ {
+  "key": "remplenish",
+  "brand": "REMplenish",
+  "first": "Anders",
+  "email": "anders@remplenish.com",
+  "tz": "America/Chicago",
+  "source_urls": [
+   "https://www.sharktankblog.com/business/remplenish"
+  ],
+  "subject": "anders, the myo-nozzle reorder",
+  "body": "Hi Anders,\n\nThe Myo-Nozzle sells mostly through your own site, which means you own every customer. The next step is usually Amazon and retail, and that's when unit cost and the reorder start to matter most.\n\nI run sourcing out of Guangdong. Send me the Myo-Nozzle spec and in 5 days I'll send back a factory quote on the silicone part and packaging, next to what you pay now, plus 3 ideas to turn one-time buyers into repeat ones.\n\nWorth a look? Just reply \"yes\".\n\nSalehin\nSapphire Lead\n\nNot relevant? Reply \"stop\" and I won't email again.",
+  "status": "scheduled_failed",
+  "send_utc": "2026-11-12T15:41:00Z",
+  "queued_at": "2026-11-12T00:10:00Z",
+  "note": "first email sent by a one-off scheduled task; agent handles follow-ups",
+  "niche": 0,
+  "score": null,
+  "fail_note": "2026-11-12T15:58Z nh-agent: 15:41Z one-off task fired but nothing in Gmail Sent (same as Cranel/Ruff Liners). NOT contacted. Needs Polin OK to requeue."
+ },
+ {
+  "key": "z-coil",
+  "brand": "Z-Coil",
+  "first": "Andres",
+  "email": "andres@zcoil.com",
+  "tz": "America/Denver",
+  "source_urls": [
+   "https://www.sharktankblog.com/business/z-coil/"
+  ],
+  "subject": "andres, the customers who never left",
+  "body": "Hi Andres,\n\nZ-Coil has something most footwear brands never get: people who have worn the same shoe for years because it lets them stay on their feet. That loyalty is the easiest thing to grow from.\n\nI'm based in Guangdong. Send me one style and in 5 days I'll send back a factory quote on the components and packaging, next to what you pay now, plus 3 ideas to bring past buyers back.\n\nWorth a look? Just reply \"yes\".\n\nSalehin\nSapphire Lead\n\nNot relevant? Reply \"stop\" and I won't email again.",
+  "status": "scheduled_failed",
+  "send_utc": "2026-11-12T16:13:00Z",
+  "queued_at": "2026-11-12T00:10:00Z",
+  "note": "first email sent by a one-off scheduled task; agent handles follow-ups; not in Gmail Sent at 16:25Z",
+  "niche": 0,
+  "score": null
+ },
+ {
+  "key": "paco-and-pepper",
+  "brand": "Paco & Pepper",
+  "first": "Kristina",
+  "email": "kristina@pacoandpepper.com",
+  "tz": "America/Los_Angeles",
+  "source_urls": [
+   "https://www.sharktankblog.com/business/paco-and-pepper"
+  ],
+  "subject": "kristina, olive pits and margin",
+  "body": "Hi Kristina,\n\nYou walked away from Kevin's royalty and kept building Paco & Pepper your way. As the litter goes into more stores and Meowtamins grows, packaging and freight decide how much margin each bag keeps.\n\nI run sourcing out of Guangdong. Send me the litter bag or a Meowtamins bottle and in 5 days I'll send back a factory quote next to what you pay now, plus 3 ideas to turn shelf buyers into subscribers on your site.\n\nWorth a look? Just reply \"yes\".\n\nSalehin\nSapphire Lead\n\nNot relevant? Reply \"stop\" and I won't email again.",
+  "status": "scheduled_by_claude",
+  "send_utc": "2026-11-12T17:22:00Z",
+  "queued_at": "2026-11-12T00:10:00Z",
+  "note": "first email sent by a one-off scheduled task; agent handles follow-ups",
+  "niche": 0,
+  "score": null
+ },
+ {
+  "key": "mirai-clinical",
+  "brand": "Mirai Clinical",
+  "first": "Koko",
+  "email": "koko@miraiclinical.com",
+  "tz": "America/Los_Angeles",
+  "source_urls": [
+   "https://www.beautyindependent.com/mirai-clinical-founder-koko-hayashi-shark-tank/",
+   "https://miraiclinical.com/blogs/japanese-culture-blog/mirai-clinical-ranks-no-2410-on-inc-5000-americas-fastest-growing-companies"
+  ],
+  "subject": "koko, the daughter who buys it",
+  "body": "Hi Koko,\n\nMirai Clinical made the Inc. 5000 without a Shark Tank investor, which says the product works. Many of your buyers are probably adult children buying for a parent, and they shop differently: gift sets, a gentle way to bring it up, and an easy reorder.\n\nI'm based in Guangdong. In 5 days I can send you a factory quote on gift boxes and packaging, next to what you pay now, plus 3 ideas for the gift buyer.\n\nWorth a look? Just reply \"yes\".\n\nSalehin\nSapphire Lead\n\nNot relevant? Reply \"stop\" and I won't email again.",
+  "status": "scheduled_by_claude",
+  "send_utc": "2026-11-12T17:58:00Z",
+  "queued_at": "2026-11-12T00:10:00Z",
+  "note": "first email sent by a one-off scheduled task; agent handles follow-ups",
+  "niche": 0,
+  "score": null
+ },
+ {
+  "key": "skimpies",
+  "niche": 0,
+  "brand": "Skimpies",
+  "founder": "Bette Bentley",
+  "first": "Bette",
+  "title": "Founder",
+  "email": "bette@skimpies.com",
+  "domain": "skimpies.com",
+  "tz": "America/Los_Angeles",
+  "score": 80,
+  "evidence": "Aired Shark Tank S18E2 on 30 Sep 2026 (Corcoran $250K/8%), 43 days ago (+20); Shark Tank Blog lists it out of stock on Amazon and Walmart (+25); founder-run (+15); ~$570K 2025 sales, Walmart (+20)",
+  "source_urls": [
+   "https://www.sharktankblog.com/business/skimpies/",
+   "https://skimpies.com/pages/about-us"
+  ],
+  "subject": "bette, the amazon gap",
+  "body": "Hi Bette,\n\nSince Skimpies aired in September, Shark Tank Blog has listed it as out of stock on Amazon and Walmart. Every week a liner is unavailable, a new buyer tries a cheaper copy and may not come back.\n\nI run a registered company in Guangdong with direct factory access. In 72 hours I can send you a written quote from a backup factory for the liners and boxes, with landed cost and duty included. No cost, yours to keep.\n\nWorth a look? Just reply \"yes\".\n\nSalehin\nSapphire Lead\n\nNot relevant? Reply \"stop\" and I won't email again.",
+  "status": "queued",
+  "queued_at": "2026-11-12T08:04:37Z"
+ },
+ {
+  "key": "calmerceuticals",
+  "niche": 1,
+  "brand": "Calmerceuticals",
+  "founder": "Rose Rayner",
+  "first": "Rose",
+  "title": "Founder",
+  "email": "rose@calmerceuticals.com",
+  "domain": "calmerceuticals.com",
+  "tz": "Australia/Sydney",
+  "score": 70,
+  "evidence": "iTWire 25 Aug 2026: sold out 8 times, 92% subscriber retention, US launch via 3PL in prep (+20); repeated sell-outs (+25); founder-run (+15); 1 sachet/min, top-1% Shopify (+20); -10 judgement: refuses offshore manufacturing, so pitch is packaging only",
+  "source_urls": [
+   "https://itwire.com/science-news/health/great-karma-1-sachet-a-minute-92-subscriber-retention-calmerceuticals-founder-rose-rayner-on-data-ai-and-why-she-refused-to-manufacture-offshore",
+   "https://calmerceuticals.com/pages/about-us"
+  ],
+  "subject": "rose, sold out eight times",
+  "body": "Hi Rose,\n\nYou've sold out eight times and are getting ready for a US launch. Each sell-out sends a subscriber looking elsewhere, and a US launch makes that gap more costly.\n\nYour Gold Coast lab should stay as it is. I run a registered company in Guangdong with direct factory access. I can quote your outer cartons and sachet film next to what you pay now, plus 3 fixes for the US launch. No cost, yours to keep.\n\nWorth a look? Just reply \"yes\".\n\nSalehin\nSapphire Lead\n\nNot relevant? Reply \"stop\" and I won't email again.",
+  "status": "queued",
+  "queued_at": "2026-11-12T08:04:37Z"
+ },
+ {
+  "key": "dr-judy-morgan",
+  "niche": 2,
+  "brand": "Dr. Judy Morgan's Naturally Healthy Pets",
+  "founder": "Judy Morgan",
+  "first": "Judy",
+  "title": "Founder (DVM)",
+  "email": "judy@drjudymorgan.com",
+  "domain": "drjudymorgan.com",
+  "tz": "America/New_York",
+  "score": 60,
+  "evidence": "Vet-formulated own line; store filter shows 8 products out of stock and no subscribe option on consumables (+25); founder-run (+15); Inc. 5000 2023, books, podcast (+20); trigger older than 90 days (0)",
+  "source_urls": [
+   "https://drjudymorgan.com/collections/dr-judy-products",
+   "https://www.dvm360.com/view/new-human-grade-palmitoylethanolamide-supplement-for-dogs-and-cats"
+  ],
+  "subject": "judy, 8 out of stock",
+  "body": "Hi Judy,\n\nYour store shows 8 Dr. Judy products out of stock, and the powders and capsules have no subscribe option. When a regular can't reorder, they often pick up a substitute at the pet store and don't come back.\n\nI run a registered company in Guangdong with direct factory access. I can send you a written factory quote on your jars, dropper bottles and capsule bottles next to what you pay now, plus 3 fixes for reorders. No cost, yours to keep.\n\nWorth a look? Just reply \"yes\".\n\nSalehin\nSapphire Lead\n\nNot relevant? Reply \"stop\" and I won't email again.",
+  "status": "queued",
+  "queued_at": "2026-11-12T08:04:37Z",
+  "last_attempt": "2026-11-12T16:25Z send blocked: Gmail send permission denied in scheduled run"
+ },
+ {
+  "key": "rosebud-perfume",
+  "niche": 3,
+  "brand": "Rosebud Perfume Co. (Smith's Rosebud Salve)",
+  "founder": "Linda Pruitt-Michielli",
+  "first": "Linda",
+  "title": "President",
+  "email": "linda@rosebudperfume.com",
+  "domain": "rosebudperfume.com",
+  "tz": "America/New_York",
+  "score": 60,
+  "evidence": "130-year family company, 4th generation; site has no cart (email/phone to order), Lorem ipsum on homepage, 'copy-of' Wix slugs (+25); ~5 staff (+15); sold worldwide via retailers (+20)",
+  "source_urls": [
+   "https://wcbm.com/?p=120516",
+   "https://www.rosebudperfume.com/",
+   "https://www.rosebudperfume.com/copy-of-about"
+  ],
+  "subject": "linda, ordering rosebud online",
+  "body": "Hi Linda,\n\nRosebud Salve has fans around the world, yet your website has no cart: people have to email or phone to order, and the homepage still shows placeholder text. Buyers who can't check out in a minute go elsewhere.\n\nI run a registered company in Guangdong with direct factory access. I can send you a written factory quote on your tins, tubes and gift boxes next to what you pay now, plus 3 fixes for the website. No cost, yours to keep.\n\nWorth a look? Just reply \"yes\".\n\nSalehin\nSapphire Lead\n\nNot relevant? Reply \"stop\" and I won't email again.",
+  "status": "hold_fit",
+  "queued_at": "2026-11-12T08:04:37Z",
+  "fit_note": "Held by client-fit gate 2026-11-12: ~5 staff, no online store, no revenue signal; unlikely to fund the $1.5K audit or $5K retainer. Moved to warmed-inbox list."
+ },
+ {
+  "key": "moose-pharmacy",
+  "niche": 6,
+  "brand": "Moose Pharmacy",
+  "founder": "Whit Moose",
+  "first": "Whit",
+  "title": "Co-owner",
+  "email": "whit@moosepharmacy.com",
+  "domain": "moosepharmacy.com",
+  "tz": "America/New_York",
+  "score": 60,
+  "evidence": "Own-label line (~15 SKUs); Whit said finding a willing private-label manufacturer was the hardest part (+25); family-run (+15); 7-8 pharmacies near Charlotte, since 1882 (+20); trigger 2021 (0)",
+  "source_urls": [
+   "https://www.pbahealth.com/elements/national-retail-trend-should-pharmacies-create-their-own-brand-of-otc-products/",
+   "https://www.moosepharmacy.com/moose-pharmacy-brand-products"
+  ],
+  "subject": "whit, the moose brand",
+  "body": "Hi Whit,\n\nYou told PBA Health the hardest part of the Moose Pharmacy brand was finding a manufacturer willing to make it. With around 15 own-label products now, one supplier is a single point of failure.\n\nI run a registered company in Guangdong with direct factory access. I can send you a written factory quote on your bottles, caps and labels next to what you pay now, plus 3 fixes to grow the line. No cost, yours to keep.\n\nWorth a look? Just reply \"yes\".\n\nSalehin\nSapphire Lead\n\nNot relevant? Reply \"stop\" and I won't email again.",
+  "status": "queued",
+  "queued_at": "2026-11-12T08:04:37Z"
+ },
+ {
+  "key": "joyvie-health",
+  "niche": 8,
+  "brand": "Joyvié Health",
+  "founder": "Zoe Robson",
+  "first": "Zoe",
+  "title": "Founder & CEO",
+  "email": "zoe@wearjoyvie.com",
+  "domain": "wearjoyvie.com",
+  "tz": "Europe/London",
+  "score": 35,
+  "evidence": "£774k pre-seed announced 8 Jun 2026 (>90 days, 0); DTC launch planned later in 2026; founder-run (+15); funded (+20)",
+  "source_urls": [
+   "https://femtechinsider.com/joyvie-health-raises-771k-to-redesign-continence-underwear-from-first-principles/",
+   "https://www.startupmag.co.uk/funding/joyvie-health-2026-pre-seed-funding/"
+  ],
+  "subject": "zoe, before the dtc launch",
+  "body": "Hi Zoe,\n\nCongratulations on the pre-seed round. As Joyvié moves from care-home pilots to direct-to-consumer, the buyer is often the adult daughter or son, and refill pouches have to arrive on time or they switch back to pads.\n\nI run a registered company in Guangdong with direct factory access. I can send you a written factory quote on your pouches, refill packs and boxes next to what you pay now, plus 3 fixes for reaching the adult child. No cost, yours to keep.\n\nWorth a look? Just reply \"yes\".\n\nSalehin\nSapphire Lead\n\nNot relevant? Reply \"stop\" and I won't email again.",
+  "status": "queued",
+  "queued_at": "2026-11-12T08:04:37Z"
+ },
+ {
+  "key": "herbal-dog-co",
+  "niche": 7,
+  "brand": "Herbal Dog Co",
+  "founder": "Gemma Stocks",
+  "first": "Gemma",
+  "title": "Founder",
+  "email": "gemma@herbaldogco.com",
+  "domain": "herbaldogco.com",
+  "tz": "Europe/London",
+  "score": 35,
+  "evidence": "Said on a podcast (Oct 2025) it made ~£1M via TikTok Shop (>90 days, 0); founder-run (+15); £1M TikTok, Channel 4 (+20)",
+  "source_urls": [
+   "https://www.audioscrape.com/podcast/your-pet-business-your-way/episode/gemma-stocks-the-herbal-dog-co-from-kitchen-table-to-biggest-pet-brand-on-tiktok-30000",
+   "https://herbaldogco.com/collections/functional-supplements"
+  ],
+  "subject": "gemma, after tiktok shop",
+  "body": "Hi Gemma,\n\nAbout £1M through TikTok Shop from a kitchen table in Newcastle is rare. At that pace, packaging costs and stock gaps eat the margin fastest, and one viral week can empty the shelf.\n\nI run a registered company in Guangdong with direct factory access. I can send you a written factory quote on your pouches, tubs and bottles next to what you pay now, plus 3 fixes to turn TikTok buyers into repeat buyers. No cost, yours to keep.\n\nWorth a look? Just reply \"yes\".\n\nSalehin\nSapphire Lead\n\nNot relevant? Reply \"stop\" and I won't email again.",
+  "status": "queued",
+  "queued_at": "2026-11-12T08:04:37Z"
+ },
+ {
+  "key": "love-mushrooms",
+  "niche": 1,
+  "brand": "Love Mushrooms",
+  "founder": "Smith Feeney",
+  "first": "Smith",
+  "title": "Co-founder",
+  "email": "smith@lovemushrooms.co.uk",
+  "domain": "lovemushrooms.co.uk",
+  "tz": "Europe/London",
+  "score": 35,
+  "evidence": "Boots online listing 1 Apr 2026 (>90 days, 0); founder-run (+15); Tesco 250 stores, H&B, Boots (+20)",
+  "source_urls": [
+   "https://retailtimes.co.uk/love-mushrooms-supplement-brand-lands-in-boots-online/",
+   "https://pressandjournal.co.uk/fp/business/6583677/love-mushrooms-moray-brand-to-appear-in-250-tesco-stores"
+  ],
+  "subject": "smith, boots and tesco",
+  "body": "Hi Smith,\n\nGetting Love Mushrooms into Boots online on top of 250 Tesco stores and Holland & Barrett is a big year. Retail margins leave little room, so every penny on jars, droppers and cartons shows up in the numbers.\n\nI run a registered company in Guangdong with direct factory access. I can send you a written factory quote on your capsule jars, dropper bottles and cartons next to what you pay now, plus 3 fixes for repeat orders. No cost, yours to keep.\n\nWorth a look? Just reply \"yes\".\n\nSalehin\nSapphire Lead\n\nNot relevant? Reply \"stop\" and I won't email again.",
+  "status": "queued",
+  "queued_at": "2026-11-12T08:04:37Z"
+ },
+ {
+  "key": "furr-boost",
+  "niche": 1,
+  "brand": "Furr Boost",
+  "founder": "Louise Toal",
+  "first": "Louise",
+  "title": "Founder",
+  "email": "louise.toal@furrboost.com",
+  "domain": "furrboost.com",
+  "tz": "Europe/London",
+  "score": 35,
+  "evidence": "Sainsbury's 250-store listing Oct 2025 (old, 0); founder-run (+15); turnover doubled after Dragons' Den, Sainsbury's/Jollyes/VioVet (+20). Promoted from warmed-inbox list by client-fit gate.",
+  "source_urls": [
+   "https://www.shropshirestar.com/news/2025/10/09/dragons-den-winner-from-shropshire-celebrates-sainsburys-listing-for-dog-smoothie-brand-furr-boost"
+  ],
+  "subject": "louise, the sainsbury's rollout",
+  "body": "Hi Louise,\n\nGetting Furr Boost into 250 Sainsbury's stores after the Den is a real result. Supermarket margins are thin, so the cost of every carton and shipper case comes straight out of what's left for you.\n\nI run a registered company in Guangdong with direct factory access. I can send you a written factory quote on your cartons and shipper cases next to what you pay now, plus 3 fixes for repeat orders online. No cost, yours to keep.\n\nWorth a look? Just reply \"yes\".\n\nSalehin\nSapphire Lead\n\nNot relevant? Reply \"stop\" and I won't email again.",
+  "status": "queued",
+  "queued_at": "2026-11-12T11:06:32Z"
+ }
 ]
