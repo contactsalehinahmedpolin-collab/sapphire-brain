@@ -126,6 +126,8 @@ Each run sends **at most one** email.
 - Print or store the MillionVerifier key.
 
 ## 4. DATA
+- **Second sender:** Polin's Antigravity bot sends from 3 Sapphire Lead Gmail inboxes on his PC, takes `ready` leads from `pipeline/new_leads.csv` and logs every send to `outbox/sent.log` (tag BOT) and `do_not_contact.csv`. Treat any email or domain in those files as contacted. Never put a lead in both `outreach_queue.json` and `new_leads.csv`.
+- **Old-batch follow-ups** (the 76 founders, from appointment.sapphirelead@gmail.com) now belong to the bot. Claude's record of the steps it sent is in `outbox/claude_followups.log`.
 - **Repo:** `contactsalehinahmedpolin-collab/sapphire-brain`. Files:
   - `pipeline/outreach_queue.json` (today's sends and follow-up state);
   - `pipeline/new_leads.csv` (overflow for the warmed inboxes);
