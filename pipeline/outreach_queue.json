@@ -193,8 +193,9 @@
   ],
   "subject": "linda, ordering rosebud online",
   "body": "Hi Linda,\n\nRosebud Salve has fans around the world, yet your website has no cart: people have to email or phone to order, and the homepage still shows placeholder text. Buyers who can't check out in a minute go elsewhere.\n\nI run a registered company in Guangdong with direct factory access. I can send you a written factory quote on your tins, tubes and gift boxes next to what you pay now, plus 3 fixes for the website. No cost, yours to keep.\n\nWorth a look? Just reply \"yes\".\n\nSalehin\nSapphire Lead\n\nNot relevant? Reply \"stop\" and I won't email again.",
-  "status": "queued",
-  "queued_at": "2026-11-12T08:04:37Z"
+  "status": "hold_fit",
+  "queued_at": "2026-11-12T08:04:37Z",
+  "fit_note": "Held by client-fit gate 2026-11-12: ~5 staff, no online store, no revenue signal; unlikely to fund the $1.5K audit or $5K retainer. Moved to warmed-inbox list."
  },
  {
   "key": "moose-pharmacy",
@@ -279,5 +280,25 @@
   "body": "Hi Smith,\n\nGetting Love Mushrooms into Boots online on top of 250 Tesco stores and Holland & Barrett is a big year. Retail margins leave little room, so every penny on jars, droppers and cartons shows up in the numbers.\n\nI run a registered company in Guangdong with direct factory access. I can send you a written factory quote on your capsule jars, dropper bottles and cartons next to what you pay now, plus 3 fixes for repeat orders. No cost, yours to keep.\n\nWorth a look? Just reply \"yes\".\n\nSalehin\nSapphire Lead\n\nNot relevant? Reply \"stop\" and I won't email again.",
   "status": "queued",
   "queued_at": "2026-11-12T08:04:37Z"
+ },
+ {
+  "key": "furr-boost",
+  "niche": 1,
+  "brand": "Furr Boost",
+  "founder": "Louise Toal",
+  "first": "Louise",
+  "title": "Founder",
+  "email": "louise.toal@furrboost.com",
+  "domain": "furrboost.com",
+  "tz": "Europe/London",
+  "score": 35,
+  "evidence": "Sainsbury's 250-store listing Oct 2025 (old, 0); founder-run (+15); turnover doubled after Dragons' Den, Sainsbury's/Jollyes/VioVet (+20). Promoted from warmed-inbox list by client-fit gate.",
+  "source_urls": [
+   "https://www.shropshirestar.com/news/2025/10/09/dragons-den-winner-from-shropshire-celebrates-sainsburys-listing-for-dog-smoothie-brand-furr-boost"
+  ],
+  "subject": "louise, the sainsbury's rollout",
+  "body": "Hi Louise,\n\nGetting Furr Boost into 250 Sainsbury's stores after the Den is a real result. Supermarket margins are thin, so the cost of every carton and shipper case comes straight out of what's left for you.\n\nI run a registered company in Guangdong with direct factory access. I can send you a written factory quote on your cartons and shipper cases next to what you pay now, plus 3 fixes for repeat orders online. No cost, yours to keep.\n\nWorth a look? Just reply \"yes\".\n\nSalehin\nSapphire Lead\n\nNot relevant? Reply \"stop\" and I won't email again.",
+  "status": "queued",
+  "queued_at": "2026-11-12T11:06:32Z"
  }
 ]

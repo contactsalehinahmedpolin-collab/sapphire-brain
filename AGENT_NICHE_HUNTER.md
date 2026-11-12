@@ -65,6 +65,15 @@ Every weekday:
 | US brand where China sourcing faces heavy tariffs and the pitch is product-only | −10 |
 Write the score and one line of evidence for each lead.
 
+
+### 3.2b Client-fit gate (Polin, 12 Nov: "send mail only if you think they can be our client")
+Before a lead goes into `outreach_queue.json` (RESEARCH) and again right before sending (SEND), it must pass all three:
+1. **Can pay:** public evidence of about $500K+/yr revenue, national or chain retail, a TV/investor deal, or fresh funding. Enough to fund the $1,500 Margin Audit and plausibly the $5,000/mo retainer.
+2. **Buys packaging or components we can quote** (bottles, jars, pouches, boxes, droppers, blister cards, accessories), or has a clear DTC growth gap (no subscription, no cart, stock-outs, launch coming).
+3. **The founder or owner is the decision maker and reads this inbox.**
+
+If any one fails, set `status:"hold_fit"` with a one-line `fit_note`, and move the lead to `new_leads.csv` for the warmed inboxes (or drop it). Keep at least 8 queued fit leads each weekday: if fewer than 8 pass, promote the best fit lead from today's `new_leads.csv` rows (remove it there and write its first email).
+
 ### 3.3 RESEARCH mode (once a day)
 1. For each niche, find candidates with WebSearch, then WebFetch the result links. If a site's own pages are blocked, use other sources. Aim for 2 verified founders per niche; Shark Tank up to 2, preferring fresh episodes.
 2. **Decision maker:** founder, owner, CEO or president, confirmed by a public source (press, podcast, show page, About page). Note the source URL.
@@ -109,7 +118,7 @@ Each run sends **at most one** email.
      - Follow-up 1 is due 3 business days after step 1. Send it in the same thread, as a reply to our latest message. Give one more useful idea specific to them, and the landing page link once.
      - Follow-up 2 is due 7 business days after step 1: offer a 3-minute video walkthrough, no link. Then mark the lead done.
      - Skip leads whose follow-ups are already scheduled elsewhere: `redd-remedies` and `sovereign-laboratories`.
-   - **Else, the highest-score "queued" first email** in `pipeline/outreach_queue.json`. Leftover queued items from earlier days come first if their score is equal.
+   - **Else, the highest-score "queued" first email that still passes the client-fit gate (3.2b)** in `pipeline/outreach_queue.json`. Leftover queued items from earlier days come first if their score is equal.
 4. **Before sending:** the address and domain are not in `do_not_contact.csv`, and there's no earlier mail to or from that address in Gmail.
 5. **Send** with mcp__Gmail__send_message (first emails) or mcp__Gmail__reply (follow-ups). Use the body word for word.
 6. **Log:**
