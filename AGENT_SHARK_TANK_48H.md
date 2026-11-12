@@ -105,3 +105,5 @@ Each run sends **at most one** email.
 - **Held for LinkedIn on 12 Nov:** Nampons, AcuPlus, PetCultures, Gerty, The Snorinator, Frame Your Feline, Rinseroo, Firefly Recovery, Warrior Kid Medic, Sleepy Baby, PeeSport, TiCK MiTT.
 - **Season 18:** airs Wednesdays on ABC (premiered 30 Sep 2026). Episode index: https://www.sharktankblog.com/shark-tank/shark-tank-episodes/season-18-shark-tank-episodes/
 - **Book link** (landing page only, never in first emails): https://calendly.com/contact-salehinahmedpolin/30min
+
+> Superseded on 12 Nov 2026 by AGENT_NICHE_HUNTER.md (Shark Tank is niche 0 there).
