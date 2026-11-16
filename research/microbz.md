@@ -16,5 +16,5 @@ First email sent from a Sapphire Lead inbox (Antigravity bot), not Claude's Gmai
 1. 3-month course default + day-21/28/60 reorder email & SMS.
 2. Import Feefo reviews, day-14 review request, Trustpilot invites.
 3. Same-spec rPET bottle/cap/label + 3-bottle shipper landed-cost quote from Guangdong.
-## Page: https://claude.ai/artifact/KeoAppVTzenaujC51dxo4j
+## Page: https://contactsalehinahmedpolin-collab.github.io/sales/microbz/ (gh-pages branch of Sales repo)
 ## Watch-outs: UK ASA health-claim rules; sustainability story (don't push China packaging if it weakens it).
