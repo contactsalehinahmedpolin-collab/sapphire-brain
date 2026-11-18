@@ -593,9 +593,11 @@
     ],
     "subject": "angie, rae is back",
     "body": "Hi Angie,\n\nRae is back on its own site after the pause, now with more than one manufacturer instead of a single source. That was a hard call, and packaging can carry the same single-source risk.\n\nI run a registered company in Guangdong with direct factory access. I can send you a backup factory quote in 72 hours on your capsule bottles, caps and dropper bottles, landed with duty. No cost, yours to keep.\n\nWorth a look? Just reply \"yes\".\n\nSalehin\nSapphire Lead\n\nNot relevant? Reply \"stop\" and I won't email again.",
-    "status": "queued",
+    "status": "sent",
     "queued_at": "2026-11-18T08:04:46Z",
-    "mv": "ok/good"
+    "mv": "ok/good",
+    "msgId": "1a1ef426dbd857c8",
+    "sent_at": "2026-11-18T15:24:33Z"
   },
   {
     "key": "tombot",
