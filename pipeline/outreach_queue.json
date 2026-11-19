@@ -236,7 +236,10 @@
   "queued_at": "2026-11-12T08:04:37Z",
   "msgId": "1a1e4da868f88758",
   "threadId": "1a1e4da868f88758",
-  "sent_utc": "2026-11-16T14:54:54Z"
+  "sent_utc": "2026-11-16T14:54:54Z",
+  "step": 2,
+  "followup1_sent_at": "2026-11-19T15:24:42Z",
+  "followup1_msgId": "1a1f468e191ba20e"
  },
  {
   "key": "joyvie-health",
@@ -385,12 +388,14 @@
   ],
   "subject": "shahida, thrive plus",
   "body": "Hi Shahida,\n\nPalms has its own NeuroFocus magnesium and the Thrive Plus line on the way. Making some of it locally to keep costs down tells me every bottle and label counts against your margin.\n\nI run a registered company in Guangdong with direct factory access. I can send you a written factory quote on your bottles, gummy jars and labels next to what you pay now, landed with duty, plus 3 fixes for online reorders. No cost, yours to keep.\n\nWorth a look? Just reply \"yes\".\n\nSalehin\nSapphire Lead\n\nNot relevant? Reply \"stop\" and I won't email again.",
-  "status": "sent",
+  "status": "replied",
   "queued_at": "2026-11-17T08:05:22Z",
   "mv": "ok/good",
   "sent_at": "2026-11-17T14:24:33Z",
   "msgId": "1a1e9e51a8c0abce",
-  "threadId": "1a1e9e51a8c0abce"
+  "threadId": "1a1e9e51a8c0abce",
+  "replied_at": "2026-11-19T15:04:08Z",
+  "reply_note": "Angie Pares (Dir Ops/HR) replied from admin@thepalmspharmacy.com: \"Please send us your catalog/pricing.\" Awaiting Polin OK; no answer sent."
  },
  {
   "key": "joe-and-bella",
