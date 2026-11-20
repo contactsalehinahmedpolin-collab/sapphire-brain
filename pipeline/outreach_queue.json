@@ -450,7 +450,11 @@
     "queued_at": "2026-11-17T08:05:22Z",
     "mv": "ok/good",
     "msgId": "1a1ea52adb84f6f5",
-    "sent_at": "2026-11-17T16:24:13Z"
+    "sent_at": "2026-11-17T16:24:13Z",
+    "step": 2,
+    "threadId": "1a1ea52adb84f6f5",
+    "followup1_sent_utc": "2026-11-20T14:24:54Z",
+    "followup1_msgId": "1a1f95888eb52495"
   },
   {
     "key": "sorsoap",
