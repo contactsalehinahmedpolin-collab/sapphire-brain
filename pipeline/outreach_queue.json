@@ -496,7 +496,9 @@
     "mv": "ok/good",
     "msgId": "1a1e93aca8d62563",
     "threadId": "1a1e93aca8d62563",
-    "sent_at": "2026-11-17T11:18:31Z"
+    "sent_at": "2026-11-17T11:18:31Z",
+    "followup1_sent_utc": "2026-11-20T11:19:01Z",
+    "followup1_msgId": "1a1f8ae5847985e4"
   },
   {
     "key": "blisstil",
