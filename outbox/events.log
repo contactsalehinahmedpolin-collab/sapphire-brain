@@ -3,3 +3,4 @@
 2026-11-23T11:25:00Z nh-agent SEND paused 24h: bounces in last 24h on contact.salehinahmedpolin (mike@shipjohn.us, sergio@flairespresso.com, miranda@pushmedia.com; non-NH outreach). No send. No replies from queued leads.
 2026-11-23T15:11:08Z personal-gmail 5 bounces 22-23 Nov (unlogged sends: flatmind, ccbc, pushmedia, shipjohn, flairespresso); sapphirelead.com MX lookup failing (rayat@ bounced)
 2026-11-23T16:24:02Z nh-agent SEND paused: 5 bounces on contact.salehinahmedpolin 00:23-01:44Z 23 Nov still inside 24h (already reported earlier today). No send. No lead replies.
+2026-11-23T17:24:13Z nh-agent SEND paused: bounces (latest 01:44Z 23 Nov) still inside 24h; Gmail account verified; no lead replies. No send.
