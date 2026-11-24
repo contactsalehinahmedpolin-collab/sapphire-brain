@@ -762,7 +762,9 @@
   "queued_at": "2026-11-18T08:04:46Z",
   "mv": "ok/good",
   "msgId": "1a1ee2a6eb235846",
-  "sent_at": "2026-11-18T10:18:44Z"
+  "sent_at": "2026-11-18T10:18:44Z",
+  "followup1_msgId": "1a20d10a48c4f0ad",
+  "followup1_sent_at": "2026-11-24T10:18:48Z"
  },
  {
   "key": "crowned-skin",
