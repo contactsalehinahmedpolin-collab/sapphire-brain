@@ -736,7 +736,11 @@
   "queued_at": "2026-11-18T08:04:46Z",
   "mv": "ok/good",
   "msgId": "1a1ee611bcd72f38",
-  "sent_at": "2026-11-18T11:18:27Z"
+  "sent_at": "2026-11-18T11:18:27Z",
+  "step": 2,
+  "followup1_sent_at": "2026-11-24T11:19:05Z",
+  "followup1_msgId": "1a20d47d5c4ad981",
+  "threadId": "1a1ee611bcd72f38"
  },
  {
   "key": "jelly-drops",
