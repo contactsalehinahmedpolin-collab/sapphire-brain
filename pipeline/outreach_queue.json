@@ -810,7 +810,10 @@
   "fit_note": "Can pay (~$14M/yr, projecting $40M; under the $50M cap but close). Buys body butter jars, oil bottles, cartons. Founder-led, small team. Watch the $50M ceiling.",
   "sent_at": "2026-11-19T16:25:10Z",
   "msgId": "1a1f4a0424fe2a73",
-  "threadId": "1a1f4a0424fe2a73"
+  "threadId": "1a1f4a0424fe2a73",
+  "step": 2,
+  "followup1_sent_at": "2026-11-25T14:24:15Z",
+  "followup1_msgId": "1a21317ca2ac6d57"
  },
  {
   "key": "white-lotus-beauty",
