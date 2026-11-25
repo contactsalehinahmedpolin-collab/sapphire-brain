@@ -234,14 +234,16 @@
   ],
   "subject": "whit, the moose brand",
   "body": "Hi Whit,\n\nYou told PBA Health the hardest part of the Moose Pharmacy brand was finding a manufacturer willing to make it. With around 15 own-label products now, one supplier is a single point of failure.\n\nI run a registered company in Guangdong with direct factory access. I can send you a written factory quote on your bottles, caps and labels next to what you pay now, plus 3 fixes to grow the line. No cost, yours to keep.\n\nWorth a look? Just reply \"yes\".\n\nSalehin\nSapphire Lead\n\nNot relevant? Reply \"stop\" and I won't email again.",
-  "status": "sent",
+  "status": "done",
   "queued_at": "2026-11-12T08:04:37Z",
   "msgId": "1a1e4da868f88758",
   "threadId": "1a1e4da868f88758",
   "sent_utc": "2026-11-16T14:54:54Z",
-  "step": 2,
+  "step": 3,
   "followup1_sent_at": "2026-11-19T15:24:42Z",
-  "followup1_msgId": "1a1f468e191ba20e"
+  "followup1_msgId": "1a1f468e191ba20e",
+  "followup2_sent_at": "2026-11-25T16:24:38Z",
+  "followup2_msgId": "1a21385d854a7260"
  },
  {
   "key": "joyvie-health",
