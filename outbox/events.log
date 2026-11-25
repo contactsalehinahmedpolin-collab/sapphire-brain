@@ -9,3 +9,4 @@
 2026-11-25T14:24:15Z nh-agent link check: Gmail read-back of sent follow-up 1 (crowned-skin; also seen on snoozer 24 Nov) shows the landing page URL as a google.com/url redirect, though a plain URL was passed. Unconfirmed whether recipients see it; Polin to check Show original.
 2026-11-25T16:24:38Z moose-pharmacy followup2 sent 1a21385d854a7260
 2026-11-25T16:24:38Z nh-agent cap check: HUMAN_SENDING rule 6 (2+ bounces in a week halves the daily cap) applies after the 5 bounces of 23 Nov. Treat cap as 7 sends / 4 first emails a day until 30 Nov. 24 Nov log shows 8 sends (over). 25 Nov now at 6.
+2026-11-25T17:24:30Z nh-agent auro followup1 sent (was due 24 Nov). Halved cap of 7 reached for 25 Nov: no more sends today. Landing link again reads back as google.com/url redirect. No lead replies, no failure bounces at check time.

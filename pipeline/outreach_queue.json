@@ -942,7 +942,10 @@
   "fit_note": "Pharmacist-owned own-label line (compounding pharmacist since 1997) with $4M+ revenue; buys glass bottles, sprayers, cartons; founder-led. Pharmacy name not confirmed in sources.",
   "sent_at": "2026-11-19T17:25:02Z",
   "msgId": "1a1f4d7143b170cd",
-  "threadId": "1a1f4d7143b170cd"
+  "threadId": "1a1f4d7143b170cd",
+  "step": 2,
+  "followup1_sent_at": "2026-11-25T17:24:30Z",
+  "followup1_msgId": "1a213bccecc0ac91"
  },
  {
   "key": "village-green-marc-isaacson",
