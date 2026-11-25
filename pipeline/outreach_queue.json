@@ -181,15 +181,17 @@
   ],
   "subject": "judy, 8 out of stock",
   "body": "Hi Judy,\n\nYour store shows 8 Dr. Judy products out of stock, and the powders and capsules have no subscribe option. When a regular can't reorder, they often pick up a substitute at the pet store and don't come back.\n\nI run a registered company in Guangdong with direct factory access. I can send you a written factory quote on your jars, dropper bottles and capsule bottles next to what you pay now, plus 3 fixes for reorders. No cost, yours to keep.\n\nWorth a look? Just reply \"yes\".\n\nSalehin\nSapphire Lead\n\nNot relevant? Reply \"stop\" and I won't email again.",
-  "status": "sent",
+  "status": "done",
   "queued_at": "2026-11-12T08:04:37Z",
   "last_attempt": "2026-11-12T16:25Z send blocked: Gmail send permission denied in scheduled run",
   "msgId": "1a1e4c11b716b09d",
   "threadId": "1a1e4c11b716b09d",
   "sent_at": "2026-11-16T14:27:08Z",
-  "step": 2,
+  "step": 3,
   "followup1_sent_at": "2026-11-19T2026-11-19T14:24:55Z",
-  "followup1_msgId": "1a1f4322db1876f8"
+  "followup1_msgId": "1a1f4322db1876f8",
+  "followup2_sent_at": "2026-11-25T15:24:50Z",
+  "followup2_msgId": "1a2134f3168e7db8"
  },
  {
   "key": "rosebud-perfume",
