@@ -313,14 +313,16 @@
   ],
   "subject": "smith, boots and tesco",
   "body": "Hi Smith,\n\nGetting Love Mushrooms into Boots online on top of 250 Tesco stores and Holland & Barrett is a big year. Retail margins leave little room, so every penny on jars, droppers and cartons shows up in the numbers.\n\nI run a registered company in Guangdong with direct factory access. I can send you a written factory quote on your capsule jars, dropper bottles and cartons next to what you pay now, plus 3 fixes for repeat orders. No cost, yours to keep.\n\nWorth a look? Just reply \"yes\".\n\nSalehin\nSapphire Lead\n\nNot relevant? Reply \"stop\" and I won't email again.",
-  "status": "sent",
+  "status": "done",
   "queued_at": "2026-11-12T08:04:37Z",
   "msgId": "1a1e3a74fdf478ca",
   "threadId": "1a1e3a74fdf478ca",
   "sent_at": "2026-11-16T09:19:21Z",
-  "step": 2,
+  "step": 3,
   "followup1_sent_at": "2026-11-19T09:19:00Z",
-  "followup1_msgId": "1a1f31a16d93e62d"
+  "followup1_msgId": "1a1f31a16d93e62d",
+  "followup2_sent_at": "2026-11-25T09:18:32Z",
+  "followup2_msgId": "1a211ffd23d91126"
  },
  {
   "key": "furr-boost",
